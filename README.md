@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/87abc344-b9db-4e53-86d6-261ea7700030)# Sugoi-Supernote
+# Sugoi-Supernote
 A collection of templates, tutorials, guides, and other useful resources for the Ratta Supernote e-ink tablet.
 
 **Note:** This is an unofficial Supernote repository and is not affiliated with the official Supernote.
