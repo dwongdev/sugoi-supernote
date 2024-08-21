@@ -131,10 +131,14 @@ Ensure your APK's are safe by scanning them with these reputable antivirus websi
 * [Hybrid Analysis](https://hybrid-analysis.com/) - Free malware analysis service powered by Falcon Sandbox. It combines runtime data with memory dump analysis to detect and analyse unknown threats, even the most evasive ones. Users can upload files or URLs to receive an instant threat analysis, which includes reputation lookups, antivirus engine results, and static analysis.
 
 ### Web Browser Ad Block
-Install uBlock Origin from the official app store and activate filters. uBlock Origin is a free and open-source browser extension for content filtering, including ad blocking, malware etc.<br>
+Install [uBlock Origin](https://github.com/gorhill/uBlock) from the official app store and activate filters. uBlock Origin is a free and open-source browser extension for content filtering, including ad blocking, malware etc.<br>
 <p></p>
 Example of fake dodgy MagisK apk <br>
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/1cccbf0a-e728-42b4-ad24-965f436f043b">
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/1cccbf0a-e728-42b4-ad24-965f436f043b"><br>
+
+[AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) doing it's job too <br>
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/f49b41d2-94d0-425c-96bc-e7eeb3e1b37f">
+
 
 
 
