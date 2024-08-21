@@ -2,7 +2,9 @@
 A collection of templates, tutorials, guides, and other useful resources for the Ratta Supernote e-ink tablet.<br>
 
 **Note:** This is an <b>unofficial</b> Supernote repository and is not affiliated with the official <b>Supernote</b>.<br>
-Please note that all information can be found online through search engines, websites etc, and I reserve the right not to list specific content here.
+Please note that all information can be found online through search engines, websites etc, and I reserve the right not to list specific content here.<br>
+<p></p>
+If there's anything that requires updating, please don't hesitate to inform me.
 
 ### Socials
 **Official Website:** https://supernote.com <br>
@@ -14,7 +16,6 @@ Please note that all information can be found online through search engines, web
 **Youtube** https://www.youtube.com/supernote_official<br>
 **Roadmap:** [Official Supernote Software Roadmap 2022(A5X/A6X, A5/A6) on Trello](https://www.reddit.com/r/Supernote/comments/tfj10x/official_supernote_software_roadmap_2022a5xa6x/?context=3)<br>
 **Changelog** https://support.supernote.com/en_US/change-log<br>
-<br>
 <br><center>***We are not better than anyone, we are just one of you. If we achieve something, we achieve it together with you.***</center><br> 
 [- Ratta Supernote's CCO](https://supernote.com/pages/about-us)</center><br><br>
 
@@ -162,9 +163,9 @@ https://supernote.com/pages/authorized-sellers
 - [How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
 - [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
 - [Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) - Automation sideload scripts.
-- [Video][How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
-- [Video][Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
-- [Video][Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
+- [Video] [How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
+- [Video] [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
+- [Video] [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
 
 ----
 
