@@ -143,7 +143,7 @@ Example of fake dodgy MagisK apk <br>
 
 
 Link: https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sideloading <br>
-Youtube: [Vladimir Kostek](https://www.youtube.com/watch?v=UU_2ob0ttiY)
+Youtube: Refer below under Tutorials.
 
 
 
@@ -157,6 +157,7 @@ https://supernote.com/pages/authorized-sellers
 ## Reviews
 ### Content Creators
 * Youtube: [@Change-1820](https://www.youtube.com/@Change-1820)
+* Youtube: [@VladimirKostek](https://www.youtube.com/@VladimirKostek)
 
 ## Software
 ### Automations
