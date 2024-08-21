@@ -1,5 +1,6 @@
 # Sugoi-Supernote
 A collection of templates, tutorials, guides, and other useful resources for the Ratta Supernote e-ink tablet.<br>
+What does ***'sugoi'*** (すごい)  mean? It translates to 'cool/awesome' in Japanese. Since someone already had the awesome-supernote, I decided to create the sugoi-supernote instead =D
 
 **Note:** This is an <b>unofficial</b> Supernote repository and is not affiliated with the official <b>Supernote</b>.<br>
 Please note that all information can be found online through search engines, websites etc, and I reserve the right not to list specific content here.<br>
