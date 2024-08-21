@@ -1,7 +1,7 @@
 # Sugoi-Supernote
 A collection of templates, tutorials, guides, and other useful resources for the Ratta Supernote e-ink tablet.
 
-**Note:** This is an unofficial Supernote repository and is not affiliated with the official Supernote.
+**Note:** This is an <b>unofficial</b> Supernote repository and is not affiliated with the official <b>Supernote</b>.
 
 ### Socials
 **Official Website:** https://supernote.com <br>
@@ -40,6 +40,8 @@ A collection of templates, tutorials, guides, and other useful resources for the
 <br>
 
 ## Apps Sideloading
+Sideloading is when you install apps or transfer files to your device from places other than the official app store. For example, you might download an app from a website and install it on your phone. It can be useful, but it also comes with risks, like getting a virus, because the apps or files aren’t checked by the official app store. So proceed with caution and download from reputable APK websites.
+
 ### Apps that are compatible
 |         App Name        	|         Category	|              Description              	|          Google Play Store Link         	|         Free / Paid	|          Website	|                Comments               	|
 |:-----------------------------:	|:-----------------------:	|:----------------------------------------------------:	|:-----------------------------------------:	|:------------------:	|:-----------------------------------------:	|:-------------------------------------:	|
@@ -82,6 +84,20 @@ A collection of templates, tutorials, guides, and other useful resources for the
 | Todoist	| Not working
 | The Economist	| Not working
 | Flipaclip	| Laggy af.
+
+### Trustworthy APK sites
+* [F-Droid](https://f-droid.org/en/) - Specialises in open-source apps and has a strong emphasis on privacy and security. AKA Aurora Store.
+* [APK Mirror](https://www.apkmirror.com/) - Known for its rigorous verification process, ensuring all APKs are safe and legitimate.
+* [APKPure](https://apkpure.com/) - Another popular site with strict security practices to verify the legitimacy of apps.
+* [Uptodown](https://en.uptodown.com/) - Offers a wide range of apps and has a strong reputation for safety.
+* [Aptoide](https://en.aptoide.com/) - A community-driven platform where users can create their own app stores, with a focus on security.
+
+### Anti Virus Scan
+Ensure your APK's are safe by scanning them with these reputable antivirus websites. It's better to be safe than sorry!
+* [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free online service that analyses files and URLs for viruses, worms, trojans, and other kinds of malicious content. It uses over 70 antivirus scanners and URL/domain blocklisting services to check for threats1. Users can upload files or enter URLs to get a detailed report on potential security issues
+* [Hybrid Analysis](https://hybrid-analysis.com/) - Free malware analysis service powered by Falcon Sandbox. It combines runtime data with memory dump analysis to detect and analyse unknown threats, even the most evasive ones. Users can upload files or URLs to receive an instant threat analysis, which includes reputation lookups, antivirus engine results, and static analysis.
+
+
 
 
 
