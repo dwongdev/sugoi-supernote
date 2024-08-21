@@ -11,7 +11,7 @@ A collection of templates, tutorials, guides, and other useful resources for the
 **Facebook:** https://www.facebook.com/rattasupernote<br>
 **Instagram:** https://www.instagram.com/supernote_official<br>
 **Youtube** https://www.youtube.com/supernote_official<br>
-**Roadmap:** https://trello.com/b/l0COP24j<br>
+**Roadmap:** [Official Supernote Software Roadmap 2022(A5X/A6X, A5/A6) on Trello](https://www.reddit.com/r/Supernote/comments/tfj10x/official_supernote_software_roadmap_2022a5xa6x/?context=3)<br>
 **Changelog** https://support.supernote.com/en_US/change-log<br>
 <br>
 <br><center>***We are not better than anyone, we are just one of you. If we achieve something, we achieve it together with you.***</center><br> 
@@ -22,7 +22,7 @@ A collection of templates, tutorials, guides, and other useful resources for the
 ----
 ## Table of contents
 
--[Apps Sideloading](#apps)<br>
+-[Apps Sideloading](#apps-sideloading)<br>
 -[Discussions](#discussions)<br>
 -[Graphics]<br>
   -[Icons]<br>
@@ -30,6 +30,7 @@ A collection of templates, tutorials, guides, and other useful resources for the
   -[Templates]<br>
 -[Hardware]<br>
   -[Pens]<br>
+  -[Supernote Tablet]<br>
 -[Reviews]<br>
 -[Content Creators](#content-creators)<br>
 -[Software]<br>
@@ -39,6 +40,7 @@ A collection of templates, tutorials, guides, and other useful resources for the
 <br>
 
 ## Apps Sideloading
+### Apps that are compatible
 |         App Name        	|         Category	|              Description              	|          Google Play Store Link         	|         Free / Paid	|          Website	|                Comments               	|
 |:-----------------------------:	|:-----------------------:	|:----------------------------------------------------:	|:-----------------------------------------:	|:------------------:	|:-----------------------------------------:	|:-------------------------------------:	|
 | AnkiDroid               	| Education	| Flashcards app                        	| [Google Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki)	| Yes	| https://apps.ankiweb.net	| -                                     	|
@@ -71,6 +73,16 @@ A collection of templates, tutorials, guides, and other useful resources for the
 
 
 
+### Apps that are incompatible or slow	
+|         App Name        	|                Comments               
+|:-----------------------------:	|:-------------------------------------:
+| Pen up	| Laggy. Doesn’t run well. Bad Latency.
+| Sketchbook	| Long delay. Unsketchable.
+| DroidVim	| Too powerful for SN to handle.
+| Todoist	| Not working
+| The Economist	| Not working
+| Flipaclip	| Laggy af.
+
 
 
 
@@ -78,6 +90,13 @@ Link: https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sidel
 Youtube: [Vladimir Kostek](https://www.youtube.com/watch?v=UU_2ob0ttiY)
 
 
+
+## Hardware
+### Pens
+
+### Supernote Device
+Make sure to verify authorised sellers on the official Supernote website. Products not listed there are likely counterfeit.<br>
+https://supernote.com/pages/authorized-sellers
 
 ## Reviews
 ### Content Creators
@@ -88,17 +107,20 @@ Youtube: [Vladimir Kostek](https://www.youtube.com/watch?v=UU_2ob0ttiY)
 
 - [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/) ([GitHub Actions version](https://github.com/arichiv/supernote-crossword))
 
-### Tutorials
-- [How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/)
-- [How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/)
+## Tutorials
+- [How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
+- [How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
 - [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
-- [Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md)
+- [Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) -Automation sideload scripts.
 
 ----
 
 ## References
 * https://www.reddit.com/r/Supernote/comments/m63l46/useful_links_keep_update
 * https://github.com/fharper/awesome-supernote
+* https://www.reddit.com/r/Supernote/comments/wql9gm/how_to_install_apps_on_supernote
+* https://www.reddit.com/r/Supernote/comments/198dcey/sideloading_apps_on_a6_x2
+* https://www.thekartinatv.com/2024/06/top-10-tv-apps.html
 
 ----
 
