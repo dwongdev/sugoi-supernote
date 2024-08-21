@@ -39,37 +39,38 @@ A collection of templates, tutorials, guides, and other useful resources for the
 <br>
 
 ## Apps Sideloading
-|         App Name        	|              Description              	|        Source        	|                Comments               	|   	|   	|
-|:-----------------------:	|:-------------------------------------:	|:--------------------:	|:-------------------------------------:	|---	|---	|
-| AnkiDroid               	| Flashcards app                        	| F-Droid/Aurora Store 	| -                                     	|   	|   	|
-| AppKiller               	| Force stops running apps              	| F-Droid/Aurora Store 	| Helps prevent device slowdown         	|   	|   	|
-| Aurora Store            	| Google PlayStore client               	| F-Droid              	| Easier app management, can't buy apps 	|   	|   	|
-| AutoStart               	| Sets apps to start on device power-on 	| F-Droid/Aurora Store 	| -                                     	|   	|   	|
-| BackButton Anywhere     	| Adds back button functionality        	| F-Droid/Aurora Store 	| Useful for navigation in some apps    	|   	|   	|
-| Brave                   	| Web browser                           	| Aurora Store         	| -                                     	|   	|   	|
-| Cx File Explorer        	| File manager                          	| Aurora Store         	| -                                     	|   	|   	|
-| Eink Bro                	| Web browser optimized for e-ink       	| F-Droid/Aurora Store 	| -                                     	|   	|   	|
-| E-ink Launcher          	| App launcher for e-ink devices        	| F-Droid/Aurora Store 	| -                                     	|   	|   	|
-| Epson IPrint            	| Direct printing via WLAN              	| Aurora Store         	| For Epson printers                    	|   	|   	|
-| Evernote                	| Note-taking app                       	| Aurora Store         	| User asked about its performance      	|   	|   	|
-| F-droid                 	| Repository for free/open source apps  	| Direct download      	| -                                     	|   	|   	|
-| Kobo Books              	| E-book store and reader               	| Aurora Store         	| -                                     	|   	|   	|
-| Kotatsu                 	| Online manga reader                   	| F-Droid              	| Alternative to Mihon                  	|   	|   	|
-| Libby                   	| Library app                           	| Aurora Store         	| -                                     	|   	|   	|
-| NaturalReader           	| Text-to-speech app                    	| Aurora Store         	| -                                     	|   	|   	|
-| Obsidian                	| Note-taking and knowledge management  	| Direct download      	| Some users report it works well       	|   	|   	|
-| Omnivore                	| Read-it-later app                     	| Aurora Store         	| Works with Chrome extension           	|   	|   	|
-| Onleihe                 	| Library app                           	| Aurora Store         	| -                                     	|   	|   	|
-| Photo Crop              	| Image cropping tool                   	| Aurora Store         	| Useful for embedding screenshots      	|   	|   	|
-| PocketBook              	| E-reader with DRM support             	| Aurora Store         	| Works well with Onleihe               	|   	|   	|
-| Proton VPN              	| VPN service                           	| F-Droid/Aurora Store 	| -                                     	|   	|   	|
-| Raindrop                	| Cross-device bookmark manager         	| Aurora Store         	| -                                     	|   	|   	|
-| ReadEra Premium         	| E-book reader                         	| Aurora Store         	| User asked about its performance      	|   	|   	|
-| Screen rotation control 	| Enables landscape mode                	| F-Droid/Aurora Store 	| May interfere with native apps        	|   	|   	|
-| Simple Ink launcher     	| Alternative app launcher              	| F-Droid/Aurora Store 	| Preferred over E-ink Launcher by some 	|   	|   	|
-| Trello                  	| Project management tool               	| Aurora Store         	| -                                     	|   	|   	|
-| XodoDocs                	| PDF reader and editor                 	| Aurora Store         	| -                                     	|   	|   	|
-| Zotero beta             	| Reference management software         	| Direct download      	| Not optimized for e-ink, but usable   	|   	|   	|
+|         App Name        	|         Category	|              Description              	|          Google Play Store Link         	|         Free / Paid	|          Website	|                Comments               	|
+|:-----------------------------:	|:-----------------------:	|:----------------------------------------------------:	|:-----------------------------------------:	|:------------------:	|:-----------------------------------------:	|:-------------------------------------:	|
+| AnkiDroid               	| Education	| Flashcards app                        	| [Google Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki)	| Yes	| https://apps.ankiweb.net	| -                                     	|
+| AppKiller               	| Utility	| Force stops running apps              	|	| Yes	|	| Helps prevent device slowdown         	|
+| AutoStart               	| Utility	| Sets apps to start on device power-on 	|	| Yes	|	| -                                     	|
+| BackButton Anywhere     	| Utility	| Adds back button functionality        	| [Google Play Store](https://play.google.com/store/apps/details?id=nu.back.button)	| Yes	| https://www.wormholeapps.com	| Useful for navigation in some apps    	|
+| Before Launcher	| Launcher	| Functional minimalist launcher	| [Google Play Store](https://play.google.com/store/apps/details?id=com.beforesoft.launcher)	| Freemium	| https://www.beforesoft.com	| -	|
+| Brave                   	| Web Browser	| Web browser                           	| [Google Play Store](https://play.google.com/store/apps/details?id=com.brave.browser)	| Yes	| https://brave.com	| -                                     	|
+| Cx File Explorer        	| File Management	| File manager                          	| [Google Play Store](https://play.google.com/store/apps/details?id=com.cxinventor.file.explorer)	| Yes	| https://www.cxinventor.com	| -                                     	|
+| Eink Bro                	| Web Browser	| Web browser optimized for e-ink       	|	| Yes	| https://einkbro.com	| -                                     	|
+| E-ink Launcher          	| Launcher	| App launcher for e-ink devices        	|	| Yes	| https://einklauncher.com	| -                                     	|
+| Epson IPrint            	| Utility	| Direct printing via WLAN              	| [Google Play Store](https://play.google.com/store/apps/details?id=epson.print)	| Yes	| https://www.epson.com	| For Epson printers                    	|
+| Evernote                	| Productivity	| Note-taking app                       	| [Google Play Store](https://play.google.com/store/apps/details?id=com.evernote)	| Freemium	| https://evernote.com	| User asked about its performance      	|
+| F-droid                 	| App Store	| Repository for free/open source apps  	| [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)	| Yes	| https://f-droid.org	| Aurora Store                                      	|
+| Kobo Books              	| E-book Reader	| E-book store and reader               	| [Google Play Store](https://play.google.com/store/apps/details?id=com.kobobooks.android)	| Yes	| https://www.kobo.com	| -                                     	|
+| Kotatsu                 	| E-book Reader	| Online manga reader                   	|	| Yes	| https://kotatsu.com	| Alternative to Tachiyomi	|
+| Libby                   	| E-book Reader	| Library app                           	| [Google Play Store](https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby)	| Yes	| https://libbyapp.com	| -                                     	|
+| NaturalReader           	| Accessibility	| Text-to-speech app                    	| [Google Play Store](https://play.google.com/store/apps/details?id=com.naturalsoft.personalweb)	| Freemium	| https://www.naturalreaders.com	| -                                     	|
+| Obsidian                	| Productivity	| Note-taking and knowledge management  	| [Google Play Store](https://play.google.com/store/apps/details?id=md.obsidian)	| Yes	| https://obsidian.md	| Some users report it works well       	|
+| Omnivore                	| Productivity	| Read-it-later app                     	| [Google Play Store](https://play.google.com/store/apps/details?id=app.omnivore.omnivore)	| Yes	| https://omnivore.media	| Works with Chrome extension           	|
+| Onleihe                 	| E-book Reader	| Library app                           	| [Google Play Store](https://play.google.com/store/apps/details?id=de.etecture.ekz.onleihe)	| Yes	| https://onleihe.de	| -                                     	|
+| PocketBook              	| E-book Reader	| E-reader with DRM support             	| [Google Play Store](https://play.google.com/store/apps/details?id=com.obreey.reader)	| Yes	| https://pocketbook-reader.com	| Works well with Onleihe               	|
+| Proton VPN              	| Security	| VPN service                           	| [Google Play Store](https://play.google.com/store/apps/details?id=ch.protonvpn.android)	| Freemium	| https://protonvpn.com	| -                                     	|
+| Raindrop                	| Productivity	| Cross-device bookmark manager         	| [Google Play Store](https://play.google.com/store/apps/details?id=io.raindrop.raindropio)	| Freemium	| https://raindrop.io	| -                                     	|
+| ReadEra Premium         	| E-book Reader	| E-book reader                         	| [Google Play Store](https://play.google.com/store/apps/details?id=org.readera.premium)	| Paid	| https://readera.com	| User asked about its performance      	|
+| Simple Ink launcher     	| Launcher	| Alternative app launcher              	|	| Yes	| https://simpleinklauncher.com	| Preferred over E-ink Launcher by some 	|
+| Trello                  	| Productivity	| Project management tool               	| [Google Play Store](https://play.google.com/store/apps/details?id=com.trello)	| Freemium	| https://trello.com	| -                                     	|
+| XodoDocs                	| Productivity	| PDF reader and editor                 	| [Google Play Store](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader)	| Freemium	| https://www.xodo.com	| -                                     	|
+| Zotero	| Research	| Reference management software         	| [Google Play Store](https://play.google.com/store/apps/details?id=org.zotero.android)	| Yes	| https://www.zotero.org	| Not optimized for e-ink, but usable   	|
+
+
+
 
 
 
