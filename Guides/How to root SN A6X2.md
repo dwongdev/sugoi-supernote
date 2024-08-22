@@ -5,6 +5,7 @@ This fully detailed step by step guide include:
 * [How to root](#how-to-root-sn)
 * [How to unroot](#how-to-unroot---stock-sn)
 * [Troubleshooting](#troubleshooting)
+* [References](#references)
 
 ### **Tested:**
 
@@ -378,7 +379,7 @@ Also, try connecting to the USB ports the back of the PC tower, not the front of
 
 **T5)** Use another PC/Laptop.
 
-**References:**  
+### **References:**  
 **[`^ back to top`](#how-to-root-supernote-a6-x2-nomad-guide)** <br>
 How to sideload Supernote A6X2 (3.16.27).  
 [https://www.reddit.com/r/Supernote/comments/1bfz4o0/how\_to\_sideloading\_on\_a6\_x2\_guide/](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/)
