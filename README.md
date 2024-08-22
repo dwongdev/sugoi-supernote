@@ -155,10 +155,11 @@ Link: https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sidel
 Youtube: Refer below under Tutorials.
 
 
-## Discussions/Reviews
+## Discussions/Reviews/Links
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 
 - [[YT] Supernote A5X Series by My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS) - Supernote Series A5X
+- [[Link] Compare All e-readers](https://comparisontabl.es/e-readers/) - A comprehensive tool to compare many e-ink tablets.
 
 ## Graphics
 [**`^ back to top`**](#Sugoi-Supernote) <br>
