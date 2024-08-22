@@ -161,6 +161,7 @@ Youtube: Refer below under Tutorials.
 
 ## Graphics
 [**`^ back to top`**](#Sugoi-Supernote) <br>
+Make your SN device more pretty by download custom icons, screensavers etc. <br>
 
 ### Icons
 [**`^ back to top`**](#Sugoi-Supernote) <br>
