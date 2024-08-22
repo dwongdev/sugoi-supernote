@@ -5,7 +5,7 @@ What does ***'sugoi'*** (すごい)  mean? It translates to 'cool/awesome' in Ja
 **Note:** This is an <b>unofficial</b> Supernote repository and is not affiliated with the official <b>Supernote</b>.<br>
 Please note that all information can be found online through search engines, websites etc, and I reserve the right not to list specific content here.<br>
 <p></p>
-If there's anything that requires updating or removing, please don't hesitate to let me know.
+If there's anything that requires updating (e.g. Dead links etc) or removing, please don't hesitate to let me know.
 
 ### Socials
 **Official Website:** https://supernote.com <br>
@@ -238,6 +238,15 @@ Supernote e-ink tablets run on the Chauvet operating system (OS), which offers c
 ### Supernote Partner App for Desktop
 - https://support.supernote.com/Tools-Features/supernote-partner-app-for-desktop
 
+### Tools
+In order to complete and test the tools below, you should have a fundamental understanding of programming as well as technical abilities.<br>
+- [Hyperlinked PDF Notebook Generator for E Ink Tablets](https://github.com/jacrify/diaryGenerator): generate custom hyperlinked PDF notebooks for use on eink tablets
+- [NoTeTO](https://github.com/dynobo/noteto): Notetaking Template Tool for the reMarkable tablet, but can be use easily for Supernote
+- [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
+- [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
+- [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF
+- [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): convert Supernote's `*.note` files into PDF, PNG or SVG from the command line
+- [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): convert notes dropped into an Obsidian vault to PNG to use in markdown.
 
 ## Tutorials
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -249,6 +258,7 @@ Supernote e-ink tablets run on the Chauvet operating system (OS), which offers c
 - [Video] [How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
 - [Video] [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
 - [Video] [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
+- [Video] [Supernote A5X & A6X beginner guide - 2022](https://www.youtube.com/watch?v=BcvVz8SbrJk): basic tutorial on keywords, Kindle and more.
 
 ----
 
