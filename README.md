@@ -51,7 +51,8 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 
 ## Apps Sideloading
 [**`^ back to top`**](#Sugoi-Supernote) <br>
-An **APK** (Android Package Kit) is the file format used for installing applications on Android devices. An APK file contains all the necessary components for an app to be installed and run on an Android device. *Sideloading* is when you install apps or transfer files to your device from places other than the official app store. For example, you might download an app from a website and install it on your phone. It can be useful, but it also comes with risks, like getting a virus, because the apps or files aren’t checked by the official app store. So proceed with caution and download from reputable APK websites.
+An **APK** (Android Package Kit) is the file format used for installing applications on Android devices. An APK file contains all the necessary components for an app to be installed and run on an Android device. *Sideloading* is when you install apps or transfer files to your device from places other than the official app store. For example, you might download an app from a website and install it on your phone. It can be useful, but it also comes with risks, like getting a virus, because the apps or files aren’t checked by the official app store. So proceed with caution and download from reputable APK websites.<br>
+To gain super access, refer to [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md)
 
 ### Apps that are compatible
 |         App Name        	|         Category	|              Description              	|         App Store Link         	|         Free / Paid	|          Website	|                Comments               	|
@@ -259,7 +260,7 @@ In order to complete and test the tools below, you should have a fundamental und
 
 ## Tutorials
 [**`^ back to top`**](#Sugoi-Supernote) <br>
--  [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide)<br>
+-  [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide) - Converted my guide from Reddit to Github<br>
 [(Reddit) How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
 - [How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
 - [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
