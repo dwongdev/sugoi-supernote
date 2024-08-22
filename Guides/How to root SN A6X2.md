@@ -338,7 +338,7 @@ Congrats! You have successfully unrooted your Supernote device. Boooo!
 
 Assuming you change your mind and kept all the files in [How to Root](#how-to-root-sn) section, you can go straight to Step 13 and onwards. Fast track to root the SN device.
 
-## Troubleshooting:  <br>
+## Troubleshooting<br>
 **[`^ back to top`](#how-to-root-supernote-a6-x2-nomad-guide)** <br>
 **T1)** If​ SN device is not recognised in Device Manager and errors popping up. adb device command doesnt work.
 
