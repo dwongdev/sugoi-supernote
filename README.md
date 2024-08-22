@@ -25,20 +25,28 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 ----
 ## Table of contents
 
--[Apps Sideloading](#apps-sideloading)<br>
--[Discussions/Reviews](#discussionsreviews)<br>
--[Graphics]<br>
-  -[Icons]<br>
-  -[Screensavers]<br>
-  -[Templates]<br>
--[Hardware]<br>
-  -[Pens]<br>
-  -[Supernote Tablet]<br>
--[Content Creators](#content-creators)<br>
--[Software]<br>
---[Automations](#automations)<br>
-  -[Tools]<br>
--[Tutorials](#tutorials)<br>
+- [Apps Sideloading](#apps-sideloading)<br>
+- [Discussions/Reviews](#discussionsreviews)<br>
+- [Graphics](#graphics)<br>
+   - [Icons](#icons)<br>
+   - [Screensavers](#screensavers)<br>
+   - [Templates](#templates)<br>
+- [Hardware](#hardware)<br>
+   - [Pens](#pens)<br>
+   - [Supernote Device](#supernote-device)<br>
+- [Content Creators](#content-creators)<br>
+- [Software](#software)<br>
+   - [Automations](#automations)<br>
+   - [Chauvet](#chauvet)<br>
+   - [Early Testers](#early-testers)<br>
+   - [Firmware](#firmware)<br>
+   - [Mobile App](#mobile-app)<br>
+   - [Supernote Cloud](#supernote-cloud)<br>
+   - [Supernote Partner App for Desktop](#supernote-partner-app-for-desktop)<br>
+   - [Tools](#tools)<br>
+- [Tutorials](#tutorials)<br>
+- [References](#references)<br>
+- [License](#license)<br>
 <br>
 
 ## Apps Sideloading
@@ -264,8 +272,8 @@ In order to complete and test the tools below, you should have a fundamental und
 
 ## References
 [**`^ back to top`**](#Sugoi-Supernote) <br>
+* https://github.com/fharper/awesome-supernote - For kickstarting awesome-supernote content and links.
 * https://www.reddit.com/r/Supernote/comments/m63l46/useful_links_keep_update
-* https://github.com/fharper/awesome-supernote
 * https://www.reddit.com/r/Supernote/comments/wql9gm/how_to_install_apps_on_supernote
 * https://www.reddit.com/r/Supernote/comments/198dcey/sideloading_apps_on_a6_x2
 * https://www.thekartinatv.com/2024/06/top-10-tv-apps.html
