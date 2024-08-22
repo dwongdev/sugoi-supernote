@@ -107,10 +107,11 @@ To gain super access, refer to [Guides/How to root SN A6X2](https://github.com/d
 
 **Note:** The APKs mentioned here are sourced from the official Google Play Store but are also replicated on APK Mirror and other APK sites, a platform that hosts legitimate APK files while adhering to a strict no-piracy policy. Although these sites ensures the authenticity of its hosted apps, users should be cautious as downloading from third-party sources can pose security risks and may not provide automatic updates. Always prioritize downloading apps from trusted sources to support developers and maintain device security.
 
-### CAUTION FAKE*
+### Note* CAUTION FAKE
 There is no official website for MagisK. Only the Github version is legit https://github.com/topjohnwu/Magisk.<br>
-If you searched Magisk on google and found this on another website. It is a virus and malware. Please be very careful on where you download APK's etc and check the url address. See proof below.<br>
-<p>**Google searches:**<br>
+If you searched Magisk on google and found this on another website. It is a virus and malware. Please be very careful on where you download APK's etc and check the url address. See proof below.<br><p>
+   
+**Google searches:** <br>
 <img width="465" alt="image" src="https://github.com/user-attachments/assets/01f107b2-9dc5-4006-a6bc-35d8de6d1472"><br>
 I downloaded the fake MagisK for fun and uploaded it to VT. <br>
 <img width="1368" alt="image" src="https://github.com/user-attachments/assets/4cbcc288-a78c-4ef0-9e25-5ea4734ecf8b"><br>
