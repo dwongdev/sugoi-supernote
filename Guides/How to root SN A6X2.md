@@ -1,3 +1,4 @@
+# How to Root SuperNote A6 X2 Nomad Guide
 A short tutorial on how to root SuperNote device on Windows OS PC. Other OS may or may not work or somewhat similar. The guide below should work more or less with the current firmware (3.18.29) on Supernote A6X2 Nomad.<br>
 This fully detailed step by step guide include:
 
@@ -92,6 +93,7 @@ Examples:
  
 
 ## **\[HOW TO ROOT SN\]**
+[**`^ back to top`**](#how-to-root-supernote-a6-x2-nomad-guide)
 
 **Step 0:**  
 \[SN\] Ver: 3.18.29.   
@@ -313,7 +315,7 @@ Congrats! You have successfully rooted your Supernote device. Woooooo!
 =========================================================
 
 ## **\[HOW TO UNROOT - Stock SN\]**
-
+**[`^ back to top`](#how-to-root-supernote-a6-x2-nomad-guide)** <br>
 Easy mode is to wait for next SN firmware updates. It will remove root function from your SN by default during update installation process.  
 Or if you can't wait... then follow the steps as below.
 
@@ -336,7 +338,8 @@ Congrats! You have successfully unrooted your Supernote device. Boooo!
 
 Assuming you change your mind and kept all the files in [How to Root](#how-to-root-sn) section, you can go straight to Step 13 and onwards. Fast track to root the SN device.
 
-## Troubleshooting:  
+## Troubleshooting:  <br>
+**[`^ back to top`](#how-to-root-supernote-a6-x2-nomad-guide)** <br>
 **T1)** If​ SN device is not recognised in Device Manager and errors popping up. adb device command doesnt work.
 
 \[PC\] Open Device Manager.  
@@ -376,6 +379,7 @@ Also, try connecting to the USB ports the back of the PC tower, not the front of
 **T5)** Use another PC/Laptop.
 
 **References:**  
+**[`^ back to top`](#how-to-root-supernote-a6-x2-nomad-guide)** <br>
 How to sideload Supernote A6X2 (3.16.27).  
 [https://www.reddit.com/r/Supernote/comments/1bfz4o0/how\_to\_sideloading\_on\_a6\_x2\_guide/](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/)
 
