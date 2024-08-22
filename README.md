@@ -5,7 +5,7 @@ What does ***'sugoi'*** (すごい)  mean? It translates to 'cool/awesome' in Ja
 **Note:** This is an <b>unofficial</b> Supernote repository and is not affiliated with the official <b>Supernote</b>.<br>
 Please note that all information can be found online through search engines, websites etc, and I reserve the right not to list specific content here.<br>
 <p></p>
-If there's anything that requires updating, please don't hesitate to inform me.
+If there's anything that requires updating or removing, please don't hesitate to let me know.
 
 ### Socials
 **Official Website:** https://supernote.com <br>
@@ -26,7 +26,7 @@ If there's anything that requires updating, please don't hesitate to inform me.
 ## Table of contents
 
 -[Apps Sideloading](#apps-sideloading)<br>
--[Discussions](#discussions)<br>
+-[Discussions/Reviews](#discussionsreviews)<br>
 -[Graphics]<br>
   -[Icons]<br>
   -[Screensavers]<br>
@@ -34,7 +34,6 @@ If there's anything that requires updating, please don't hesitate to inform me.
 -[Hardware]<br>
   -[Pens]<br>
   -[Supernote Tablet]<br>
--[Reviews]<br>
 -[Content Creators](#content-creators)<br>
 -[Software]<br>
 --[Automations](#automations)<br>
@@ -43,6 +42,7 @@ If there's anything that requires updating, please don't hesitate to inform me.
 <br>
 
 ## Apps Sideloading
+[**`^ back to top`**](#Sugoi-Supernote) <br>
 An **APK** (Android Package Kit) is the file format used for installing applications on Android devices. An APK file contains all the necessary components for an app to be installed and run on an Android device. *Sideloading* is when you install apps or transfer files to your device from places other than the official app store. For example, you might download an app from a website and install it on your phone. It can be useful, but it also comes with risks, like getting a virus, because the apps or files aren’t checked by the official app store. So proceed with caution and download from reputable APK websites.
 
 ### Apps that are compatible
@@ -146,26 +146,103 @@ Link: https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sidel
 Youtube: Refer below under Tutorials.
 
 
+## Discussions/Reviews
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+
+- [[YT] Supernote A5X Series by My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS) - Supernote Series A5X
+
+## Graphics
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+
+### Icons
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+Download custom icons created by the community. Simply copy and paste them into your own notes. You can download the .note file using your PC or Cloud, then extract it to the Note folder.
+- [Visual Library](icons/Visual_Library.note) [~17mb] by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/) - Dated 4th Mar 2023.
+  - **Mirror:** [Dropbox Link](https://www.dropbox.com/scl/fi/q21383yusdhi4n5fpywyl/Visual-Library.note?rlkey=aw9bmn1va6u3cwc6mc1m4d04n&e=1&dl=0)
+  - **Reddit:** [Building an Icon gallery](https://www.reddit.com/r/Supernote/comments/sac6z1/building_an_icon_gallery/)
+- 
+### Screensavers
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+The Supernote has a feature called a screensaver that lets users see visuals while the device is inactive. Users can choose images from their folders to personalise the screensaver; PNG, JPG, and JPEG formats are supported. 
+
+- [[SN] How to Customize Screensaver?](https://support.supernote.com/en_US/faq/how-to-customize-screensaver) - Official guide on how to install screensaver on the SN device.
+- [Audubon Bird Plates](https://github.com/nathanbuchar/audubon-bird-plates-for-supernote): A collection of all 435 illustrations of John James Audubon's [Birds of America](https://www.audubon.org/birds-of-america).
+- [B&W Cropped Audubon Bird Plates](https://teev.io/supernote-screensavers-john-j-audubons-birds-of-america): A growing collection of hand formatted plates from John James Audubon's [Birds of America](https://www.audubon.org/birds-of-america) collection. Each screensaver has been cropped to 1404x1872px and converted to black and white.
+- [Earnst Haeckel’s Kunstformen der Natur (Artforms of Nature)](https://teev.io/supernote-screensavers-ernst-haeckel-kunstformen-der-natur): A collection of 100 plates from German biologist and illustrator Ernst Haeckel's Kunstformen der Natur (Artforms of Nature) (1904)
+
+### Templates
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+Supernote templates are editable layouts that facilitate better note organisation for users. They can be very helpful for preserving consistency and increasing note-taking productivity.
+
+- [[SN] How to Create a Custom Note Template Using Images?](https://support.supernote.com/faq/how-to-create-a-custom-note-template)
+- [[SN] Use PDFs as Templates](https://support.supernote.com/Tools-Features/using-pdfs-as-templates)
+- [[SN] Layers and Templates](https://support.supernote.com/Tools-Features/layers-and-templates)
+- [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) - Massive template collections (Ted L.)
+  - **Mirror** https://kitlaan.gitlab.io/supernote-templates/
+- [Remarkable templates](https://rm.ezb.io/) - Can be used for SN as well, same dimensions.
+- (DEPRECATED) [Notetaking Template Tool (v0.0.4)](https://noteto.needleinthehay.de/) - Works for SN
+  - (DEPRECATED) https://github.com/dynobo/noteto - Not active anymore
 
 ## Hardware
+[**`^ back to top`**](#Sugoi-Supernote) <br>
 ### Pens
+- [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
+- [[SN] How to Safely Make a DIY Supernote Pen](https://support.supernote.com/hardware-repair/how-to-safely-make-a-diy-supernote-pen?from_search=156541912) - Official guide on from SN.
+- [[SN] Pen products at the store](https://supernote.com/collections/pens)
 
 ### Supernote Device
+[SN Devices](https://supernote.com/collections/devices) - Available devices on the market.<br>
+
+| Device   | Released  |  Availability   |        
+|:---------:|:------:| :----------: |
+| A5X2	| 2024* | TBC* |
+| A6X2	| 2023 | Available |
+| A5X	| 2020 | Discountinued |
+| A6X	| 2021 | Discountinued |
+| A6 Agile	| 2019 | Discountinued |
+| A5 Agile	| 2019 | Discountinued |
+
+**Note*** : TBC, No official news released.
+
 Make sure to verify authorised sellers on the official Supernote website. Products not listed there are likely counterfeit.<br>
 https://supernote.com/pages/authorized-sellers
 
-## Reviews
-### Content Creators
-* Youtube: [@Change-1820](https://www.youtube.com/@Change-1820)
-* Youtube: [@VladimirKostek](https://www.youtube.com/@VladimirKostek)
+## Content Creators
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+**Youtube:**
+* [@Change-1820](https://www.youtube.com/@Change-1820)
+* [@VladimirKostek](https://www.youtube.com/@VladimirKostek)
+* [@MyDeepGuide](https://www.youtube.com/@MyDeepGuide)
 
 ## Software
+[**`^ back to top`**](#Sugoi-Supernote) <br>
 ### Automations
-
 - [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/) ([GitHub Actions version](https://github.com/arichiv/supernote-crossword))
 
+### Chauvet
+Supernote e-ink tablets run on the Chauvet operating system (OS), which offers capabilities including note-taking and document annotation. It is updated frequently for better operation and may be upgraded via USB or Wi-Fi.
+
+### Early Testers
+[Early Testers Program](https://www.reddit.com/r/Supernote/comments/mwm3bx/early_testers_program_apply_for_early_testing_of/) - Apply for early testers program of new SN features.
+
+### Firmware
+- [Download Firmware and Update System](https://support.supernote.com/en_US/change-log/how-to-update-your-supernote)
+ 
+### Mobile app
+[Supernote Partner App for Mobile](https://support.supernote.com/Tools-Features/1753209-supernote-partner-app-for-mobile?from_search=156547673) - IOS and Android app.
+
+### Supernote Cloud
+- [Supernote Cloud](https://support.supernote.com/en_US/Tools-Features/supernote-cloud) - Article on how to register cloud (Free).
+  - https://cloud.supernote.com/
+
+### Supernote Partner App for Desktop
+- https://support.supernote.com/Tools-Features/supernote-partner-app-for-desktop
+
+
 ## Tutorials
-- [How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+-  [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide)<br>
+[(Reddit) How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
 - [How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
 - [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
 - [Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) - Automation sideload scripts.
@@ -176,6 +253,7 @@ https://supernote.com/pages/authorized-sellers
 ----
 
 ## References
+[**`^ back to top`**](#Sugoi-Supernote) <br>
 * https://www.reddit.com/r/Supernote/comments/m63l46/useful_links_keep_update
 * https://github.com/fharper/awesome-supernote
 * https://www.reddit.com/r/Supernote/comments/wql9gm/how_to_install_apps_on_supernote
@@ -185,12 +263,11 @@ https://supernote.com/pages/authorized-sellers
 ----
 
 ## LICENSE
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] [![CC BY 4.0][cc-by-image]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
