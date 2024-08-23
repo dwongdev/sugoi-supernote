@@ -152,14 +152,21 @@ DO NOT INSTALL/SIDELOAD THIS ON YOUR DEVICE. IT CAN GET ACCESS TO YOUR BANK ACCO
 
 
 ### Apps that are incompatible or slow	
-|         App Name        	|                Comments               
-|:-----------------------------:	|:-------------------------------------:
+|         App Name       	|                Comments               
+|:----------------------------:	|:-----------------------------------------------------------------------------------------------------------------:
+| Audible	| Doesn’t launch
+| DroidVim	| Too powerful for SN to handle.
+| Feedly	| Not working
+| Flipaclip	| Laggy af.
+| Google Play Store	| SN does not have Google Mobile Services (GMS). All Google related apps will not work.
+| Krita	| Not working
+| Logseq	| Doesn’t launch
 | Pen up	| Laggy. Doesn’t run well. Bad Latency.
 | Sketchbook	| Long delay. Unsketchable.
-| DroidVim	| Too powerful for SN to handle.
-| Todoist	| Not working
 | The Economist	| Not working
-| Flipaclip	| Laggy af.
+| TickTicl	| Not working
+| Todoist	| Half working?
+
 
 ### Trustworthy APK sites
 * [F-Droid](https://f-droid.org/en/) - Specialises in open-source apps and has a strong emphasis on privacy and security. AKA Aurora Store.
