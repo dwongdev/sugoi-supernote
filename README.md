@@ -52,12 +52,29 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 
 ## Apps Sideloading
 [**`^ back to top`**](#Sugoi-Supernote) <br>
-An **APK** (Android Package Kit) is the file format used for installing applications on Android devices. An APK file contains all the necessary components for an app to be installed and run on an Android device. *Sideloading* is when you install apps or transfer files to your device from places other than the official app store. For example, you might download an app from a website and install it on your phone. It can be useful, but it also comes with risks, like getting a virus, because the apps or files aren’t checked by the official app store. So proceed with caution and download from reputable APK websites.<br>
-To gain super access, refer to [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md)
+What is Sideloading and Rooting?<br>
+**Sideloading** is installing apps from sources other than the official app store (such as Google Play) on your device is known as sideloading. The APK file for the program can be downloaded, and it can then be manually installed. It gives you access to apps that are either not featured on the official store or might not be available in your area. It can be useful, but it also comes with risks, like getting a virus, because the apps or files aren’t checked by the official app store. So proceed with caution and download from reputable APK websites.
+
+**Rooting** is the process of obtaining root access, or privileged control, over the Android operating system. This enables you to run specialised apps that need root permissions, change system files, and remove pre-installed software. Although rooting your device can offer additional customisation choices, there are hazards involved, including the possibility of bricking your device and voiding your warranty.
+
+So, are **Sideloading** and **Rooting** mean the same thing? No, they are not the same! Both are two different processes on Android devices. People often mistakenly believe that they are the same, but they are not. <br>
+**Rooting** and **Sideloading** provide you different levels of control over your device. Installing programs from unapproved sources is known as **sideloading**, while getting more system access is known as **rooting**.
+
+An **APK** (Android Package Kit) is the file format used for installing applications on Android devices. An APK file contains all the necessary components for an app to be installed and run on an Android device. <br>
+To gain super access (rooting), refer to [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md)
+<br>
+
+**Other formats of APKs**
+APKM (made by APKmirror) closed source format that has its own encryption containing a bunch of split apks.
+XAPK (made by APKpure) have their own format.
+Try to download APK formats as they are used commonly.
+
+Refer to the [Tutorials](#tutorials) section on How to Sideload. You can follow my reddit written guide or use scripts to sideload.
 
 ### Apps that are compatible
 |         App Name        	|         Category	|              Description              	|         App Store Link         	|         Free / Paid	|          Website	|                Comments               	|
-|:-----------------------------:	|:-----------------------:	|:----------------------------------------------------------------:	|:-----------------------------------------:	|:------------------:	|:-----------------------------------------:	|:-------------------------------------------------------------------------------:	|
+|:-----------------------------:	|:-----------------------------------:	|:----------------------------------------------------------------:	|:-----------------------------------------:	|:------------------:	|:-----------------------------------------:	|:-------------------------------------------------------------------------------:	|
+| aCalendar+	| Calendar	| Calendar	| [Google Play Store](https://play.google.com/store/apps/details?id=org.withouthat.acalendarplus)	| Paid	| 	| You can get free version	|
 | AnkiDroid               	| Education	| Flashcards app                        	| [Google Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki)	| Free	| https://apps.ankiweb.net	| -                                     	|
 | Anysoftkeyboard	| Utility	| Customizable keyboard app	| [Google Play Store](https://play.google.com/store/search?q=Anysoftkeyboard)	| Free	| https://github.com/AnySoftKeyboard	| Bug: Won't stay as default	|
 | App Killer               	| Utility	| Force stops running apps              	| [Google Play Store](https://play.google.com/store/apps/details?id=com.killapps.closeapps.closerunningapps)	| Free	|	| Helps prevent device slowdown         	|
@@ -74,8 +91,10 @@ To gain super access, refer to [Guides/How to root SN A6X2](https://github.com/d
 | Epson IPrint            	| Utility	| Direct printing via WLAN              	| [Google Play Store](https://play.google.com/store/apps/details?id=epson.print)	| Free	| https://www.epson.com	| For Epson printers                    	|
 | Evernote                	| Productivity	| Note-taking app                       	| [Google Play Store](https://play.google.com/store/apps/details?id=com.evernote)	| Free	| https://evernote.com	| User asked about its performance      	|
 | F-droid                 	| App Store	| Repository for free/open source apps  	| [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)	| Free	| https://f-droid.org	|                 	|
+| FairEmail  	| Email	| Privacy aware email	| [Google Play Store](https://play.google.com/store/apps/details?id=eu.faircode.email)	| Free	| https://github.com/M66B/FairEmail?tab=readme-ov-file	|	|
 | FAZ	| News	| German newspaper app	| [Google Play Store](https://play.google.com/store/apps/details?id=net.faz.FAZ)	| Freemium	|	| -                                     	|
 | Firefox	| Web Browser	| Popular Web Browser	| [Google Play Store](https://play.google.com/store/search?q=Firefox)	| Free	|	| -                                     	|
+| HiBy Music	| Music	| Music player	| [Google Play Store](https://play.google.com/store/apps/details?id=com.hiby.music)	| Free	|	| Can connect to Tidal and stream music                               	|
 | Hidden Folks	| Games	| Hidden object puzzle game	| [Google Play Store](https://play.google.com/store/apps/details?id=com.adriaandejongh.hiddenfolks)	| Paid	|	| -                                     	|
 | Hoopla	| E-book Reader	| Digital media service for libraries	| [Google Play Store](https://play.google.com/store/apps/details?id=com.trustsourcing.hoopla)	| Free	|	| -                                     	|
 | Key mapper	| Utility	| Customize hardware button functions	| [Google Play Store](https://play.google.com/store/search?q=Keymapper)	| Free	| https://github.com/keymapperorg/KeyMapper	| -                                     	|
@@ -85,8 +104,14 @@ To gain super access, refer to [Guides/How to root SN A6X2](https://github.com/d
 | KoReader	| E-book Reader	| E-book reader with extensive format support	| [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)	| Free	|	| -                                     	|
 | Kotatsu                 	| E-book Reader	| Online manga reader                   	| [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)	| Free	| https://kotatsu.com	| Alternative to Tachiyomi	|
 | Libby                   	| E-book Reader	| Library app                           	| [Google Play Store](https://play.google.com/store/apps/details?id=com.overdrive.mobile.android.libby)	| Free	| https://libbyapp.com	| Need internet connectivity	|
-| MagisK*	| System Tool	| Root access management tool	| [Github](https://github.com/topjohnwu/Magisk)	| Free	| https://github.com/topjohnwu/Magisk	| Provide root access. OG website. There is no other websites.	|
-| Markor 	| Productivity	| Create notes and manage your to-do list using simple markup formats	| [Google Play Store](https://play.google.com/store/apps/details?id=net.gsantner.markor)		|	| -                                     	|
+| MagisK	| System Tool	| Root access management tool	| [Github](https://github.com/topjohnwu/Magisk)	| Free	| https://github.com/topjohnwu/Magisk	| Provide root access. OG website. There is no other websites.	|
+| Markor 	| Productivity	| Create notes and manage your to-do list using simple markup formats	| [Google Play Store](https://play.google.com/store/apps/details?id=net.gsantner.markor)	| Free	|	| -                                     	|
+| Microsoft Excel	| Microsoft	| Spreadsheets	| [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.office.excel)	| Free	|	| -                                     	|
+| Microsoft OneNote	| Microsoft	| Note taking	| [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote)	| Free	|	| Hardware compability issue: Works fine on A6X2 [2]	|
+| Microsoft To Do	| Microsoft	| Lists and Tasks	| [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.todos)	| Free	|	| -                                     	|
+| Microsoft Word	| Microsoft	| Write documentation	| [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.office.word)	| Free	|	| -                                     	|
+| Mihon	| E-book Reader	| Manga reader	| https://mihon.app/download/	| Free	| https://mihon.app	| May require root device [1]                                 	|
+| MiXplorer Silver File Manager	| File Management	| File manager                          	| [Google Play Store](https://play.google.com/store/apps/details?id=com.mixplorer.silver)	| Free	|	| -                                     	|
 | Mull Browser	| Web Browser	| Privacy oriented web browser	| [Aurora Store](https://f-droid.org/en/packages/us.spotco.fennec_dos/)	| Free	|	| -                                     	|
 | NaturalReader           	| Accessibility	| Text-to-speech app                    	| [Google Play Store](https://play.google.com/store/apps/details?id=com.naturalsoft.personalweb)	| Freemium	| https://www.naturalreaders.com	| -                                     	|
 | Obsidian                	| Productivity	| Note-taking and knowledge management  	| [Google Play Store](https://play.google.com/store/apps/details?id=md.obsidian)	| Free	| https://obsidian.md	| Some users report it works well       	|
@@ -97,18 +122,25 @@ To gain super access, refer to [Guides/How to root SN A6X2](https://github.com/d
 | Raindrop                	| Productivity	| Cross-device bookmark manager         	| [Google Play Store](https://play.google.com/store/apps/details?id=io.raindrop.raindropio)	| Freemium	| https://raindrop.io	| -                                     	|
 | ReadEra Premium         	| E-book Reader	| E-book reader                         	| [Google Play Store](https://play.google.com/store/apps/details?id=org.readera.premium)	| Paid	| https://readera.com	| User asked about its performance      	|
 | Readwise Reader	| E-book Reader	| E-book reader                         	| [Google Play Store](https://play.google.com/store/apps/details?id=com.readermobile)	| Free	| https://readwise.io/read	| Working but slow?	|
+| Scribd	| E-book Service	| Subscription for e-books and audiobooks.	| [Google Play Store](https://play.google.com/store/apps/details?id=com.scribd.app.reader0.docs)	| Free	|	|	|
 | Screen Rotation Control	| Utility	| Manages screen orientation	| [Google Play Store](https://play.google.com/store/apps/details?id=bong.android.androidlock)	| Free	| https://jubongms.blogspot.com/	| -                                     	|
 | SpaceDesk	| Productivity	| Extends Windows desktop to other devices	| [Google Play Store](https://play.google.com/store/apps/details?id=ph.spacedesk.beta)	| Freemium	| https://www.spacedesk.net/	| -                                     	|
 | Sudoku	| Games	| Number-placement puzzle game	| [Google Play Store](https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android)	| Freemium	|	| -                                     	|
+| Syncthing	| Utility	| Syncing files on the cloud	| [F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/)	| Free	| https://syncthing.net/	| May reduce SN battery performance	|
 | TachiyomiJ2K	| E-book Reader	| Online manga reader                   	| [Github](https://github.com/Jays2Kings/tachiyomiJ2K)	| Free	|	| -                                     	|
 | The New York Times	| E-book Reader	| News app with e-reader functionality	| [Google Play Store](https://play.google.com/store/apps/details?id=com.nytimes.android)	| Freemium	|	| -                                     	|
 | Trello                  	| Productivity	| Project management tool               	| [Google Play Store](https://play.google.com/store/apps/details?id=com.trello)	| Freemium	| https://trello.com	| -                                     	|
+| WSJ Print Edition	| News	| Newspaper	| [Google Play Store](https://play.google.com/store/apps/details?id=com.wallstreetjournal.android.prod)	| Free	| https://customercenter.wsj.com/public	| Need additional step. Refer to Tutorial Update WebView	|
 | XodoDocs                	| Productivity	| PDF reader and editor                 	| [Google Play Store](https://play.google.com/store/apps/details?id=com.xodo.pdf.reader)	| Freemium	| https://www.xodo.com	| -                                     	|
 | Zotero	| Research	| Reference management software         	| [Google Play Store](https://play.google.com/store/apps/details?id=org.zotero.android)	| Free	| https://www.zotero.org	| Not optimized for e-ink, but usable   	|
 
+***Footer notes:***
+[1] [Root device required](https://www.reddit.com/r/Supernote/comments/1bd5kor/comment/l26xu5o/)
+[2] [Onenote on A6X2](https://www.reddit.com/r/Supernote/comments/1cdfjxz/onenote_is_sideloadable_on_a6x2_and_good_for/)
+
 **Note:** The APKs mentioned here are sourced from the official Google Play Store but are also replicated on APK Mirror and other APK sites, a platform that hosts legitimate APK files while adhering to a strict no-piracy policy. Although these sites ensures the authenticity of its hosted apps, users should be cautious as downloading from third-party sources can pose security risks and may not provide automatic updates. Always prioritize downloading apps from trusted sources to support developers and maintain device security.
 
-### Note* CAUTION FAKE
+### Caution* CAUTION FAKE
 There is no official website for MagisK. Only the Github version is legit https://github.com/topjohnwu/Magisk.<br>
 If you searched Magisk on google and found this on another website. It is a virus and malware. Please be very careful on where you download APK's etc and check the url address. See proof below.<br><p>
    
@@ -157,11 +189,23 @@ Link: https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sidel
 Youtube: Refer below under Tutorials.
 
 
-## Discussions/Reviews/Links
+## Discussions/Reviews/Links/Tips
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 
 - [[YT] Supernote A5X Series by My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS) - Supernote Series A5X
 - [[Link] Compare All e-readers](https://comparisontabl.es/e-readers/) - A comprehensive tool to compare many e-ink tablets.
+- [[Reddit] A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
+- [[Reddit] Sideload APKM files on Supernote Nomad](https://www.reddit.com/r/Supernote/comments/1e4ddgw/sideload_apkm_files_on_supernote_nomad/)
+- [[Reddit] Microsoft Word App SideLoaded on the Nomad](https://www.reddit.com/r/Supernote/comments/1bbkwkd/microsoft_word_app_sideloaded_on_the_nomad/)
+- [[Reddit] For those who sideload apps: try this if your pen stops writing](https://www.reddit.com/r/Supernote/comments/17jozp8/for_those_who_sideload_apps_try_this_if_your_pen/)
+- [[Reddit] Anything I can do about black screens on sideloaded apps?](https://www.reddit.com/r/Supernote/comments/1btwaw8/anything_i_can_do_about_black_screens_on/)
+- [[Reddit] How to install apps on Supernote](https://www.reddit.com/r/Supernote/comments/wql9gm/how_to_install_apps_on_supernote/)
+- [[Reddit] Syncthing working on A5X](https://www.reddit.com/r/Supernote/comments/1awuadk/syncthingfork_works_sideloaded_to_the_supernote/)
+- [[Reddit] Possibly useful for others - syncing your files using syncthing via your phone (or sideloaded on your SN device)](https://www.reddit.com/r/Supernote/comments/1auyk6w/possibly_useful_for_others_syncing_your_files/)
+- [[Reddit] I cannot get my SN into the company WiFi, so I figured out a workaround](https://www.reddit.com/r/Supernote/comments/1cz6i2d/i_cannot_get_my_sn_into_the_company_wifi_so_i/)
+- [[Reddit] How to get the most from Supernote (with a bit of work)](https://www.reddit.com/r/Supernote/comments/yu1lda/how_to_get_the_most_from_supernote_with_a_bit_of/)
+- [[Reddit] A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
+- 
 
 ## Graphics
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -267,11 +311,13 @@ In order to complete and test the tools below, you should have a fundamental und
 - **[Articles]**
    - [Win][Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide) - Converted my guide from Reddit to Github<br>
    - [Win][(Reddit) How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
-   - [Win][How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 - 
-   - [Win/Linux] [Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) - Automation sideload scripts.
+   - [Win][How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
+   - [Win/Linux] [[Scripting] Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) - Automate sideload using scripts.
+   - [MacOS] [Reddit][How to sideload on MacOS steps and process ](https://www.reddit.com/r/Supernote/comments/1cjandb/comment/l2fpl5r/)
+   - [Win/Linux/Mac][Reddit][Instructions: How to Update WebView on your Supernote](https://www.reddit.com/r/Supernote/comments/11l8oby/instructions_how_to_update_webview_on_your/)
 
 - **[Video tutorial]**
-   - [Video] [How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
+   - [Video] [MacOS][How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
    - [Video] [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
    - [Video] [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
    - [Video] [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
