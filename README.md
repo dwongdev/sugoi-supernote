@@ -14,9 +14,9 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 **X (Twitter):** https://x.com/rattasupernote<br>
 **Facebook:** https://www.facebook.com/rattasupernote<br>
 **Instagram:** https://www.instagram.com/supernote_official<br>
-**Youtube** https://www.youtube.com/supernote_official<br>
+**Youtube:** https://www.youtube.com/supernote_official<br>
 **Roadmap:** [Official Supernote Software Roadmap 2022(A5X/A6X, A5/A6) on Trello](https://www.reddit.com/r/Supernote/comments/tfj10x/official_supernote_software_roadmap_2022a5xa6x/?context=3)<br>
-**Changelog** https://support.supernote.com/en_US/change-log<br>
+**Changelog:** https://support.supernote.com/en_US/change-log<br>
 <br><center>***We are not better than anyone, we are just one of you. If we achieve something, we achieve it together with you.***</center><br> 
 [- Ratta Supernote's CCO](https://supernote.com/pages/about-us)</center><br><br>
 
