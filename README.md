@@ -45,6 +45,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
    - [Supernote Partner App for Desktop](#supernote-partner-app-for-desktop)<br>
    - [Tools](#tools)<br>
 - [Tutorials](#tutorials)<br>
+- [To Do](#to-do)<br>
 - [References](#references)<br>
 - [License](#license)<br>
 <br>
@@ -262,15 +263,23 @@ In order to complete and test the tools below, you should have a fundamental und
 
 ## Tutorials
 [**`^ back to top`**](#Sugoi-Supernote) <br>
--  [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide) - Converted my guide from Reddit to Github<br>
-[(Reddit) How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
-- [How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
-- [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
-- [Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) - Automation sideload scripts.
-- [Video] [How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
-- [Video] [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
-- [Video] [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
-- [Video] [Supernote A5X & A6X beginner guide - 2022](https://www.youtube.com/watch?v=BcvVz8SbrJk): basic tutorial on keywords, Kindle and more.
+- ***[OSes: Windows 10/11 | Linux | MacOS]***
+- **[Articles]**
+   - [Win][Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide) - Converted my guide from Reddit to Github<br>
+   - [Win][(Reddit) How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
+   - [Win][How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 - 
+   - [Win/Linux] [Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) - Automation sideload scripts.
+
+- **[Video tutorial]**
+   - [Video] [How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
+   - [Video] [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
+   - [Video] [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
+   - [Video] [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
+   - [Video] [Supernote A5X & A6X beginner guide - 2022](https://www.youtube.com/watch?v=BcvVz8SbrJk): basic tutorial on keywords, Kindle and more.
+
+----
+## To do
+- Relocate Sideloading apps on it's own folder once it gets big.
 
 ----
 
