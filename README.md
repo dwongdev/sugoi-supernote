@@ -212,7 +212,8 @@ Youtube: Refer below under Tutorials.
 - [[Reddit] I cannot get my SN into the company WiFi, so I figured out a workaround](https://www.reddit.com/r/Supernote/comments/1cz6i2d/i_cannot_get_my_sn_into_the_company_wifi_so_i/)
 - [[Reddit] How to get the most from Supernote (with a bit of work)](https://www.reddit.com/r/Supernote/comments/yu1lda/how_to_get_the_most_from_supernote_with_a_bit_of/)
 - [[Reddit] A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
-- 
+- [[Reddit] Support for (m)HTML](https://www.reddit.com/r/Supernote/comments/1bku7wh/support_for_mhtml/)
+- [[Reddit] Obsidian working on A6 X2 Guide](https://www.reddit.com/r/Supernote/comments/1bnmd5o/obsidian_working_on_a6_x2_guide/)
 
 ## Graphics
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -260,7 +261,7 @@ Supernote templates are editable layouts that facilitate better note organisatio
 | Device   | Released  |  Availability   |        
 |:---------:|:------:| :----------: |
 | A5X2	| 2024* | TBC* |
-| A6X2	| 2023 | Available |
+| A6X2 (Nomad)	| 2023 | Available |
 | A5X	| 2020 | Discountinued |
 | A6X	| 2021 | Discountinued |
 | A6 Agile	| 2019 | Discountinued |
@@ -280,6 +281,8 @@ https://supernote.com/pages/authorized-sellers
 
 ## Software
 [**`^ back to top`**](#Sugoi-Supernote) <br>
+Download the SN device manual at https://support.supernote.com/en_US/getting-started/download-manual<br>
+
 ### Automations
 - [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/) ([GitHub Actions version](https://github.com/arichiv/supernote-crossword))
 
