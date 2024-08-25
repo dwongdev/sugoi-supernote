@@ -7,6 +7,8 @@ This fully detailed step by step guide include:
 * [Troubleshooting](#troubleshooting)
 * [References](#references)
 
+⚠**Disclaimer:** It is possible that you may brick your device. Proceed at your own risk, and accept full responsibility. I cannot be held responsible for any problems that arise!
+
 ### **Tested:**
 
 * Supernote A6 X2 Nomad.
@@ -63,7 +65,6 @@ Link: [F-Droid - Free and Open Source Android App Repository](https://f-droid.or
 
 \* **Android SDK**. Option 1 or Option 2 or Option 3.
 
-**Disclaimer:** It is possible that you may brick your device. Proceed at your own risk, and accept full responsibility. I cannot be held responsible for any problems that arise! 
 
 **Option 1)**  
 ADB & Fastboot++ (All in one installer). Install latest ADB and Fastboot files without installing entire Android SDK package.  
