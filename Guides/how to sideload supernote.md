@@ -10,7 +10,7 @@
 - [Protection](#protection)       
   - [Basic Cyber Security Etiquette - Anti Virus Scan](#basic-cyber-security-etiquette---anti-virus-scan)
   - [Web Browser Extensions in action](#web-browser-extensions-in-action)
-  - [Trustworthy APK sites](trustworthy-apk-sites)
+  - [Trustworthy APK sites](#trustworthy-apk-sites)
 - [Discussion](#discussion)
     
 - [How to enable Sideloading](#How-to-enable-sideloading)
