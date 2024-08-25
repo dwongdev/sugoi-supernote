@@ -82,7 +82,7 @@ Make your SN device more pretty by download custom icons, screensavers etc. <br>
 ### Icons
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 Download custom icons created by the community. Simply copy and paste them into your own notes. You can download the .note file using your PC or Cloud, then extract it to the Note folder.
-- [Visual Library](icons/Visual_Library.note) [~17mb] by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/) - Dated 4th Mar 2023.
+- [Visual Library](https://github.com/dwongdev/sugoi-supernote/blob/main/icons/Visual%20Library.note) [~17mb] by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/) - Dated 4th Mar 2023.
   - **Mirror:** [Dropbox Link](https://www.dropbox.com/scl/fi/q21383yusdhi4n5fpywyl/Visual-Library.note?rlkey=aw9bmn1va6u3cwc6mc1m4d04n&e=1&dl=0)
   - **Reddit:** [Building an Icon gallery](https://www.reddit.com/r/Supernote/comments/sac6z1/building_an_icon_gallery/)
 - 
@@ -120,6 +120,8 @@ Supernote templates are editable layouts that facilitate better note organisatio
 
 | Device   | Released  |  Availability   |        
 |:---------:|:------:| :----------: |
+| A5 SLIM | 2025* | TBC* |
+| A4 X2 | 2024-Q4* | TBC* |
 | A5X2	| 2024* | TBC* |
 | A6X2 (Nomad)	| 2023 | Available |
 | A5X	| 2020 | Discountinued |
@@ -127,7 +129,7 @@ Supernote templates are editable layouts that facilitate better note organisatio
 | A6 Agile	| 2019 | Discountinued |
 | A5 Agile	| 2019 | Discountinued |
 
-**Note*** : TBC, No official news released.
+**Note*** : TBC. For latest news about hardware release, Refer to https://www.reddit.com/r/Supernote/comments/rxddxj/comment/iugkpj3/
 
 Make sure to verify authorised sellers on the official Supernote website. Products not listed there are likely counterfeit.<br>
 https://supernote.com/pages/authorized-sellers
