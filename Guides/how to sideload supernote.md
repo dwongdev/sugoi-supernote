@@ -43,6 +43,7 @@ To gain super access (rooting), refer to [Guides/How to root SN A6X2](https://gi
 
 
 ### **Other formats of APKs**
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 - .APKM (made by APKmirror) closed source format that has its own encryption containing a bunch of split apks. 
 - .XAPK (made by APKpure) have their own custom format.
 It's recommended to prioritise standard .APK files, as they are widely supported. The .APKM and .XAPK formats may encounter compatibility issues with Supernote devices
@@ -50,6 +51,7 @@ It's recommended to prioritise standard .APK files, as they are widely supported
 **Note:** The APKs mentioned here are mostly sourced from the official Google Play Store but are also replicated on APK Mirror and other APK sites, a platform that hosts legitimate APK files while adhering to a strict no-piracy policy. Although these sites ensures the authenticity of its hosted apps, users should be cautious as downloading from third-party sources can pose security risks and may not provide automatic updates. Always prioritise downloading apps from trusted sources to support developers and maintain device security.
 
 ## Disclaimer
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 You'll see a disclaimer on your Supernote your device before you may activate third-party apps. That being said, this disclaimer offers no particular advice on how to keep your device safe. In the end, you are in charge of safeguarding and backing up your Supernote.
 ![image](https://github.com/user-attachments/assets/4de87daf-4cf3-40df-8497-e5df2cb1f8d2)
 
@@ -60,7 +62,7 @@ Disclaimer: It is possible that you may brick your device. Proceed at your own r
 
 It is essential to always back up your data before taking any further action!!
 
-## Compatible Apps <br>
+## Compatible Apps<br>
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 On GitHub, tables are sometimes shown in an odd way. To find out which apps can be sideloaded, click the link below.<br>
 <img width="1634" alt="image" src="https://github.com/user-attachments/assets/7d050726-15a4-4373-9ae3-a700f4048e88">
@@ -73,7 +75,7 @@ The majority of this data comes from the Supernote subreddit. Since I haven't te
 
 An awesome community member [@VladimirKostek on YT](https://www.youtube.com/@VladimirKostek) has offered to test sideload apps. You can view his video [here](https://www.youtube.com/watch?v=UU_2ob0ttiY).
 
-## Incompatible Apps <br>
+## Incompatible Apps<br>
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 These are a few apps that people in the community have tried sideloading before.
 
@@ -93,8 +95,10 @@ These are a few apps that people in the community have tried sideloading before.
 | Todoist	| Half working?
 
 
-## Pros vs Cons of Sideloading
+## Pros vs Cons<br>
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
+A pros vs con of sideloading table.
+
 | Pros                                                                        | Cons                                                                 |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | App access that isn't offered in official stores.                           | Increased security risks and vulnerability to malware                |
@@ -124,11 +128,13 @@ I downloaded the fake MagisK for fun and uploaded it to [VT](https://www.virusto
 DO NOT INSTALL/SIDELOAD THIS ON YOUR DEVICE. IT CAN GET ACCESS TO YOUR BANK ACCOUNTS ETC.
 
 ### Basic Cyber Security Etiquette - Anti Virus Scan
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 Ensure your APK's are safe by scanning them with these reputable antivirus websites. It's better to be safe than sorry!
 * [VirusTotal (VT) ](https://www.virustotal.com/gui/home/upload) - Free online service that analyses files and URLs for viruses, worms, trojans, and other kinds of malicious content. It uses over 70 antivirus scanners and URL/domain blocklisting services to check for threats1. Users can upload files or enter URLs to get a detailed report on potential security issues
 * [Hybrid Analysis](https://hybrid-analysis.com/) - Free malware analysis service powered by Falcon Sandbox. It combines runtime data with memory dump analysis to detect and analyse unknown threats, even the most evasive ones. Users can upload files or URLs to receive an instant threat analysis, which includes reputation lookups, antivirus engine results, and static analysis.
 
 ### Web Browser Extensions in action
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 Install [uBlock Origin](https://github.com/gorhill/uBlock) from the official app store and activate filters. uBlock Origin is a free and open-source browser extension for content filtering, including ad blocking, malware etc.<br>
 <p></p>
 Example of fake dodgy MagisK apk <br>
@@ -138,6 +144,7 @@ Example of fake dodgy MagisK apk <br>
 <img width="387" alt="image" src="https://github.com/user-attachments/assets/f49b41d2-94d0-425c-96bc-e7eeb3e1b37f">
 
 ### Trustworthy APK sites
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 * [F-Droid](https://f-droid.org/en/) - Specialises in open-source apps and has a strong emphasis on privacy and security. AKA Aurora Store.
 * [APK Mirror](https://www.apkmirror.com/) - Known for its rigorous verification process, ensuring all APKs are safe and legitimate.
 * [APKPure](https://apkpure.com/) - Another popular site with strict security practices to verify the legitimacy of apps.
@@ -145,6 +152,7 @@ Example of fake dodgy MagisK apk <br>
 * [Aptoide](https://en.aptoide.com/) - A community-driven platform where users can create their own app stores, with a focus on security.
 
 ## Discussion
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 **Link:** https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sideloading <br>
 
 ---
@@ -155,6 +163,7 @@ I've created a thorough, step-by-step tutorial for people with no prior technica
 Since it uses the same method, this procedure should work with other Supernote devices as well, albeit it might differ based on the firmware and model number of the device.
 
 ### [Quick Method]
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 To make this process easier, a kind community member has created an automated script. 
 This is how it operates:
 * Download APK files from third-party APK websites.
@@ -198,7 +207,7 @@ Congrats. You can begin sideloading apps.
 * Supernote A6 X2 Nomad - Ver: 3.16.27
 
 ### **Prerequisite**
-
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 * Supernote A6 X2 Nomad
 * Desktop PC
 * **OS**: Windows
@@ -206,7 +215,7 @@ Congrats. You can begin sideloading apps.
 * **SN Version**: Chauvet 3.16.27
 
 ### **Pre-Downloads Files**
-
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 ***Step P1:***
 
 * Android Platform toolsDownload Android Platform Tools from website below and select:
@@ -219,7 +228,7 @@ Congrats. You can begin sideloading apps.
   [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
 
 ### **Steps to sideload**:
-
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 Note: Although the tools and app versions could be out of date, the instructions should still be valid.
 Additionally, you must use `.\adb devices` on Windows for the command `.\adb devices` because the Android tools are not added to the system's environment path. The "." prefix ensures that the command will run from the current directory.
 
@@ -257,6 +266,7 @@ Step 4: Done!<br>
 **Tip:** Best to install a decent file manager and app store.
 
 ### **Video Tutorial**
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 - [How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04)
 - [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY)
 - [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY)
