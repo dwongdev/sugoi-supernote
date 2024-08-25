@@ -27,6 +27,7 @@
 ---
 
 ## Introduction
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 This tutorial is primarily focused on the Windows operating system and the Supernote A6X2 device.
 
 What is *Sideloading* and *Rooting*? <br>
@@ -60,6 +61,7 @@ Disclaimer: It is possible that you may brick your device. Proceed at your own r
 It is essential to always back up your data before taking any further action!!
 
 ## Compatible Apps <br>
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 On GitHub, tables are sometimes shown in an odd way. To find out which apps can be sideloaded, click the link below.<br>
 <img width="1634" alt="image" src="https://github.com/user-attachments/assets/7d050726-15a4-4373-9ae3-a700f4048e88">
 The majority of this data comes from the Supernote subreddit. Since I haven't tested most of these apps myself, please proceed with caution.<br>
@@ -72,6 +74,7 @@ The majority of this data comes from the Supernote subreddit. Since I haven't te
 An awesome community member [@VladimirKostek on YT](https://www.youtube.com/@VladimirKostek) has offered to test sideload apps. You can view his video [here](https://www.youtube.com/watch?v=UU_2ob0ttiY).
 
 ## Incompatible Apps <br>
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 These are a few apps that people in the community have tried sideloading before.
 
 |         App Name       	|                Comments               
@@ -91,7 +94,7 @@ These are a few apps that people in the community have tried sideloading before.
 
 
 ## Pros vs Cons of Sideloading
-
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 | Pros                                                                        | Cons                                                                 |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | App access that isn't offered in official stores.                           | Increased security risks and vulnerability to malware                |
@@ -107,6 +110,7 @@ These are a few apps that people in the community have tried sideloading before.
 | Possibility of increased app performance (lack of licensing checks and DRM) |                                                                      |
 
 ## Protection
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 Similar to Google's procedure, if you install F-Droid or Aurora Store on the SN device, they typically run malware checks before adding programs to their stores. This isn't always a 100% certainty, though. These app stores might not always contain the most recent versions because they usually update more slowly than legitimate sources. It is your responsibility to make sure the APKs are secure before installing them on your device if you're utilising third-party websites like APK Mirror. Regardless of the source, you should always exercise caution and confirm the security of any software you download.
 
 **Caution*** CAUTION FAKE!
@@ -143,13 +147,10 @@ Example of fake dodgy MagisK apk <br>
 ## Discussion
 **Link:** https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sideloading <br>
 
-
-
-
-
 ---
 
 ## [How to enable Sideloading]
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 I've created a thorough, step-by-step tutorial for people with no prior technical or IT knowledge. You should have no trouble sideloading apps if you follow it. You are guaranteed to comprehend and be aware of each step required by using this manual technique.
 Since it uses the same method, this procedure should work with other Supernote devices as well, albeit it might differ based on the firmware and model number of the device.
 
@@ -166,7 +167,7 @@ For comprehensive information, visit [Sideloading Apps on the Supernote A5X (and
 Note: Please be advised that this script may take some technical know-how to implement. It may require minor adjustments to make sure it works with the newest Supernote devices. Users need to be ready to debug and tweak the script as necessary to get it to function correctly on their particular device model and firmware version.
 
 ## New Method
-
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 SN A6X2 (Nomad)
 
 | OS              | Released Date     | Remarks                  |
@@ -191,12 +192,12 @@ Congrats. You can begin sideloading apps.
 ---
 
 ## Old Method
-
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 **Tested**:
 
 * Supernote A6 X2 Nomad - Ver: 3.16.27
 
-## **Prerequisite**
+### **Prerequisite**
 
 * Supernote A6 X2 Nomad
 * Desktop PC
@@ -204,7 +205,7 @@ Congrats. You can begin sideloading apps.
 * USB cable
 * **SN Version**: Chauvet 3.16.27
 
-## **Pre-Downloads Files**
+### **Pre-Downloads Files**
 
 ***Step P1:***
 
@@ -217,7 +218,7 @@ Congrats. You can begin sideloading apps.
 * F-Droid (Similar to Google Play Store to download Apps etc etcs)
   [F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/)
 
-## **Steps to sideload**:
+### **Steps to sideload**:
 
 Note: Although the tools and app versions could be out of date, the instructions should still be valid.
 Additionally, you must use `.\adb devices` on Windows for the command `.\adb devices` because the Android tools are not added to the system's environment path. The "." prefix ensures that the command will run from the current directory.
@@ -247,6 +248,7 @@ Additionally, you must use `.\adb devices` on Windows for the command `.\adb dev
 
 
 ## **[How to sideload]**
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 Step 1: Enable sideloading. <br>
 Step 2: Download the APK from an app store or third-party site.<br>
 Step 3A: If downloaded from an app store, click "Install." OR<br>
@@ -261,6 +263,7 @@ Step 4: Done!<br>
 
 
 ## ***Troubleshooting:***
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 **T1)** If SN device is not recognised in Device Manager and errors popping up. adb device command doesnt work.
 
 \[PC\] Open Device Manager.  
@@ -300,6 +303,7 @@ Also, try connecting to the USB ports the back of the PC tower, not the front of
 **T5)** Use another PC/Laptop.
 
 ## **References**
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 * [https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide) - DEPRECATED
 * [https://www.reddit.com/r/Supernote/comments/198dcey/sideloading_apps_on_a6_x2/](https://www.reddit.com/r/Supernote/comments/198dcey/sideloading_apps_on_a6_x2/)
 * SN knowledge site at https://github.com/dwongdev/sugoi-supernote/ is my new location.
