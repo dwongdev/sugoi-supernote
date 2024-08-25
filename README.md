@@ -72,7 +72,9 @@ Try to download APK formats as they are used commonly.
 Refer to the [Tutorials](#tutorials) section on How to Sideload. You can follow my reddit written guide or use scripts to sideload.
 
 ### Apps that are compatible <br>
-Tables on Github is a bit funny. Visit the link below to see which apps can be sideloaded.
+Tables on Github is a bit funny. Visit the link below to see which apps can be sideloaded.<br>
+<img width="1634" alt="image" src="https://github.com/user-attachments/assets/7d050726-15a4-4373-9ae3-a700f4048e88">
+
 https://airtable.com/appzL9hpWOVEA9yer/shrs2RfIpx9yCVKHJ/tblDwEK7RuXdVq4Tr
 
 ***Footnotes:*** <br>
