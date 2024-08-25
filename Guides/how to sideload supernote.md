@@ -50,6 +50,8 @@ It's recommended to prioritise standard .APK files, as they are widely supported
 
 ## Disclaimer
 You'll see a disclaimer on your Supernote your device before you may activate third-party apps. That being said, this disclaimer offers no particular advice on how to keep your device safe. In the end, you are in charge of safeguarding and backing up your Supernote.
+![image](https://github.com/user-attachments/assets/4de87daf-4cf3-40df-8497-e5df2cb1f8d2)
+
 
 I'll go over various safety measures for sideloading programs (APKs) to reduce the possibility of dangerous software, but it's crucial to remember that no technique is 100% secure. Although they use virus-checking techniques, app shops such as F-Droid, Aurora, and even the Google Play Store are unable to provide 100% protection. The installation of third-party software carries an inherent risk.
 
@@ -244,7 +246,7 @@ Additionally, you must use `.\adb devices` on Windows for the command `.\adb dev
 
 
 
-## **How to sideload:**
+## **[How to sideload]**
 Step 1: Enable sideloading. <br>
 Step 2: Download the APK from an app store or third-party site.<br>
 Step 3A: If downloaded from an app store, click "Install." OR<br>
