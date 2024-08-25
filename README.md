@@ -20,7 +20,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 <br><center>***We are not better than anyone, we are just one of you. If we achieve something, we achieve it together with you.***</center><br> 
 [- Ratta Supernote's CCO](https://supernote.com/pages/about-us)</center><br><br>
 
-**Disclaimer:** Use tools that can modify your Supernote’s files or alter the OS at your own risk. I am merely sharing these resources and cannot be held responsible for any data loss or warranty issues.
+⚠**Disclaimer:** Use tools that can modify your Supernote’s files or alter the OS at your own risk. I am merely sharing these resources and cannot be held responsible for any data loss or warranty issues.
 
 ----
 ## Table of contents
