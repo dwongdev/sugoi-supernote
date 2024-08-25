@@ -119,13 +119,13 @@ If you searched Magisk on google and found this on another website. It is a viru
    
 **Google searches:** <br>
 <img width="465" alt="image" src="https://github.com/user-attachments/assets/01f107b2-9dc5-4006-a6bc-35d8de6d1472"><br>
-I downloaded the fake MagisK for fun and uploaded it to VT. <br>
+I downloaded the fake MagisK for fun and uploaded it to [VT](https://www.virustotal.com). <br>
 <img width="1368" alt="image" src="https://github.com/user-attachments/assets/4cbcc288-a78c-4ef0-9e25-5ea4734ecf8b"><br>
 DO NOT INSTALL/SIDELOAD THIS ON YOUR DEVICE. IT CAN GET ACCESS TO YOUR BANK ACCOUNTS ETC.
 
 ### Basic Cyber Security Etiquette - Anti Virus Scan
 Ensure your APK's are safe by scanning them with these reputable antivirus websites. It's better to be safe than sorry!
-* [VirusTotal](https://www.virustotal.com/gui/home/upload) - Free online service that analyses files and URLs for viruses, worms, trojans, and other kinds of malicious content. It uses over 70 antivirus scanners and URL/domain blocklisting services to check for threats1. Users can upload files or enter URLs to get a detailed report on potential security issues
+* [VirusTotal (VT) ](https://www.virustotal.com/gui/home/upload) - Free online service that analyses files and URLs for viruses, worms, trojans, and other kinds of malicious content. It uses over 70 antivirus scanners and URL/domain blocklisting services to check for threats1. Users can upload files or enter URLs to get a detailed report on potential security issues
 * [Hybrid Analysis](https://hybrid-analysis.com/) - Free malware analysis service powered by Falcon Sandbox. It combines runtime data with memory dump analysis to detect and analyse unknown threats, even the most evasive ones. Users can upload files or URLs to receive an instant threat analysis, which includes reputation lookups, antivirus engine results, and static analysis.
 
 ### Web Browser Extensions in action
