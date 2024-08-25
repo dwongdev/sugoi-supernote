@@ -50,7 +50,7 @@ It's recommended to prioritise standard .APK files, as they are widely supported
 
 **Note:** The APKs mentioned here are mostly sourced from the official Google Play Store but are also replicated on APK Mirror and other APK sites, a platform that hosts legitimate APK files while adhering to a strict no-piracy policy. Although these sites ensures the authenticity of its hosted apps, users should be cautious as downloading from third-party sources can pose security risks and may not provide automatic updates. Always prioritise downloading apps from trusted sources to support developers and maintain device security.
 
-## Disclaimer
+## ⚠Disclaimer
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 You'll see a disclaimer on your Supernote your device before you may activate third-party apps. That being said, this disclaimer offers no particular advice on how to keep your device safe. In the end, you are in charge of safeguarding and backing up your Supernote.
 ![image](https://github.com/user-attachments/assets/4de87daf-4cf3-40df-8497-e5df2cb1f8d2)
