@@ -74,8 +74,8 @@ Refer to the [Tutorials](#tutorials) section on How to Sideload. You can follow 
 ### Apps that are compatible <br>
 Tables on Github is a bit funny. Visit the link below to see which apps can be sideloaded.<br>
 <img width="1634" alt="image" src="https://github.com/user-attachments/assets/7d050726-15a4-4373-9ae3-a700f4048e88">
-
-https://airtable.com/appzL9hpWOVEA9yer/shrs2RfIpx9yCVKHJ/tblDwEK7RuXdVq4Tr
+The majority of this data comes from the Supernote subreddit. Since I haven't tested it myself, please proceed with caution.<br>
+**Link:** https://airtable.com/appzL9hpWOVEA9yer/shrs2RfIpx9yCVKHJ
 
 ***Footnotes:*** <br>
 [1] [Root device required](https://www.reddit.com/r/Supernote/comments/1bd5kor/comment/l26xu5o/) <br>
