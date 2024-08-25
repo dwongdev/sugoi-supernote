@@ -176,7 +176,7 @@ SN A6X2 (Nomad)
 | Chauvet 3.17.29 | June 6th, 2024    | Removed Sideloading      |
 | Chauvet 3.16.27 | March 1st, 2024   | Added Sideloading switch |
 
-Ratta has made the procedure easier by immediately adding sideloading options to the SN device's settings.
+Ratta has made the procedure easier by immediately adding sideloading options to the SN device's settings. Feel free to utilise any method that works for you while sideloading; there are other approaches that aren't covered here.
 
 **Process (Easy as 1-2-3):** <br>
 *Step 1:*
