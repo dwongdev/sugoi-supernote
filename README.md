@@ -54,7 +54,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 The majority of users will mostly use the sideloading guide, and only few will likely look into [root](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md) options.
 
-TBC
+[How to sideload](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
 
 ## Discussions/Reviews/Links/Tips
 [**`^ back to top`**](#Sugoi-Supernote) <br>
