@@ -22,6 +22,7 @@
     - [How to sideload](#how-to-sideload)
       - [Video Tutorial](#video-tutorial)
  - [Troubleshooting](#troubleshooting)
+ - [Changelog](#changelog)
  - [References](#references)
 
 ---
@@ -44,9 +45,8 @@ To gain super access (rooting), refer to [Guides/How to root SN A6X2](https://gi
 
 ### **Other formats of APKs**
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
-- .APKM (made by APKmirror) closed source format that has its own encryption containing a bunch of split apks. 
-- .XAPK (made by APKpure) have their own custom format.
-It's recommended to prioritise standard .APK files, as they are widely supported. The .APKM and .XAPK formats may encounter compatibility issues with Supernote devices
+While Android can't handle APKM files on its own, the APKM format is not closed-source, neither is XAPK made by APKPure. XAPK files are used by the Google Play Store for example, Aurora Store also pulls XAPKs off of Google's web servers. Both formats require an additional app to install, like AppManager [available on F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.AppManager/).
+It's recommended to prioritise standard .APK files, as they are widely supported and most commonly used. The APKM and XAPK formats can be used if APK is not available but may encounter compatibility issues with Supernote devices.
 
 **Note:** The APKs mentioned here are mostly sourced from the official Google Play Store but are also replicated on APK Mirror and other APK sites, a platform that hosts legitimate APK files while adhering to a strict no-piracy policy. Although these sites ensures the authenticity of its hosted apps, users should be cautious as downloading from third-party sources can pose security risks and may not provide automatic updates. Always prioritise downloading apps from trusted sources to support developers and maintain device security.
 
@@ -88,6 +88,7 @@ These are a few apps that people in the community have tried sideloading before.
 | Google Play Store	| SN does not have Google Mobile Services (GMS). All Google related apps will not work.
 | Krita	| Not working
 | Logseq	| Doesn’t launch
+| Moonreader | AX5 Not Compatible
 | Pen up	| Laggy. Doesn’t run well. Bad Latency.
 | Sketchbook	| Long delay. Unsketchable.
 | The Economist	| Not working
@@ -115,9 +116,15 @@ A pros vs con of sideloading table.
 
 ## Protection
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
-Similar to Google's procedure, if you install F-Droid or Aurora Store on the SN device, they typically run malware checks before adding programs to their stores. This isn't always a 100% certainty, though. These app stores might not always contain the most recent versions because they usually update more slowly than legitimate sources. It is your responsibility to make sure the APKs are secure before installing them on your device if you're utilising third-party websites like APK Mirror. Regardless of the source, you should always exercise caution and confirm the security of any software you download.
+Neither Aurora Store nor F-Droid scan installed (or to be installed) apps for malware, but both are legitimate sources to download apps from.
 
-**Caution*** CAUTION FAKE!
+Aurora Store, as a front-end for Google's Play Store (Aurora Store is not a separate store; It pulls its apps from Google's servers), does not check anything for malware at all; Google checks its store and removes malware there. No store checks for malware on the users device because that would use too many resources.
+
+F-Droid is its own store which limits the apps it offers to the ones that are free and open-source. It sometimes lags behind on app updates (compared to the versions published by the developers.) This is because every time a new app or update gets submitted to the F-Droid store, the people behind F-Droid check the app and let a program run through the app's source code to check for malware, usage of any communication with servers that the user gets no control of, dependancy on external websites and similar (sometimes problematic) choices by the devs. 
+
+It is your responsibility to make sure the APKs are secure before installing them on your device if you're utilising third-party websites like APK Mirror. Regardless of the source, you should always exercise caution and confirm the security of any software you download.
+
+**Caution*** CAUTION FAKE!<br>
 There is no official website for MagisK. Only the Github version is legit https://github.com/topjohnwu/Magisk.<br>
 If you searched Magisk on google and found this on another website. It is a virus and malware. Please be very careful on where you download APK's etc and check the url address. See proof below.<br><p>
    
@@ -202,17 +209,15 @@ Congrats. You can begin sideloading apps.
 
 ## Old Method
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
-**Tested**:
-
+**Tested on Windows**:
 * Supernote A6 X2 Nomad - Ver: 3.16.27
+* **OS**: Windows 10/11
+* Desktop PC
 
 ### **Prerequisite**
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
-* Supernote A6 X2 Nomad
-* Desktop PC
-* **OS**: Windows
+* Supernote device
 * USB cable
-* **SN Version**: Chauvet 3.16.27
 
 ### **Pre-Downloads Files**
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
@@ -312,8 +317,19 @@ Also, try connecting to the USB ports the back of the PC tower, not the front of
 
 **T5)** Use another PC/Laptop.
 
+---
+
+## Changelog
+**26/08/2024:** [Community Peer Reviewer](https://www.reddit.com/user/ImJustHereToBullyYou/)<br>
+Various sections updated:
+- Other formats APK
+- Protection
+- Old Method
+- References  
+
 ## **References**
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
+* Discussion post: https://www.reddit.com/r/Supernote/comments/1f0we2u/how_to_sideload_on_sn_devices_guide/
 * [https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide) - DEPRECATED
 * [https://www.reddit.com/r/Supernote/comments/198dcey/sideloading_apps_on_a6_x2/](https://www.reddit.com/r/Supernote/comments/198dcey/sideloading_apps_on_a6_x2/)
 * SN knowledge site at https://github.com/dwongdev/sugoi-supernote/ is my new location.
