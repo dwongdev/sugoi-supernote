@@ -67,7 +67,8 @@ It is essential to always back up your data before taking any further action!!
 On GitHub, tables are sometimes shown in an odd way. To find out which apps can be sideloaded, click the link below.<br>
 <img width="1634" alt="image" src="https://github.com/user-attachments/assets/7d050726-15a4-4373-9ae3-a700f4048e88">
 The majority of this data comes from the Supernote subreddit. Since I haven't tested most of these apps myself, please proceed with caution.<br>
-**Link:** https://airtable.com/appzL9hpWOVEA9yer/shrs2RfIpx9yCVKHJ
+**Link:** https://airtable.com/appzL9hpWOVEA9yer/shrs2RfIpx9yCVKHJ <br>
+***Updated as of:*** 26/08/2024
 
 ***Footnotes (For Sideloads above):*** <br>
 [1] [Root device required](https://www.reddit.com/r/Supernote/comments/1bd5kor/comment/l26xu5o/) <br>
