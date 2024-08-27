@@ -293,7 +293,7 @@ Using ***A6X2 Nomad*** device as an example.<br>
 **Step 7:** The App should be successfully uninstalled<br>
 
 **Uninstall app via ADB terminal** <br>
-**⚠Use caution when utilising the ADB terminal to remove apps. Only continue forward if you comprehend the procedure completely. Uninstalling an incorrect software or changing system preferences may seriously harm your device.  If you are unsure or lack the necessary knowledge, it's best to avoid this method to prevent any unintended consequences.*** <br>
+***⚠Use caution when utilising the ADB terminal to remove apps. Only continue forward if you comprehend the procedure completely. Uninstalling an incorrect software or changing system preferences may seriously harm your device.  If you are unsure or lack the necessary knowledge, it's best to avoid this method to prevent any unintended consequences.*** <br>
 
 Before proceeding, ensure that sideloading is enabled on the SN device and familiarise yourself with the fundamentals of both ADB and the terminal shell. <br>
 **Step 1:** [Terminal] `adb devices` <br>
