@@ -21,6 +21,7 @@
         - [Pre-Downloads Files](#pre-downloads-files)        
     - [How to sideload](#how-to-sideload)
       - [Video Tutorial](#video-tutorial)
+  - [How to uninstall / delete sideloaded app](#how-to-uninstall--delete-sideloaded-app)
  - [Troubleshooting](#troubleshooting)
  - [Changelog](#changelog)
  - [References](#references)
@@ -58,7 +59,7 @@ You'll see a disclaimer on your Supernote your device before you may activate th
 
 I'll go over various safety measures for sideloading programs (APKs) to reduce the possibility of dangerous software, but it's crucial to remember that no technique is 100% secure. Although they use virus-checking techniques, app shops such as F-Droid, Aurora, and even the Google Play Store are unable to provide 100% protection. The installation of third-party software carries an inherent risk.
 
-Disclaimer: It is possible that you may brick your device. Proceed at your own risk, and accept full responsibility. I cannot be held responsible for any problems that arise! 
+**Notice:** You run the chance of possibly bricking your device. You assume full responsibility for your actions and proceed at your own risk. I cannot be responsible for any problems that could happen. It is also your duty to carry out your own due diligence research.
 
 It is essential to always back up your data before taking any further action!!
 
@@ -151,6 +152,9 @@ Example of fake dodgy MagisK apk <br>
 [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) doing it's job too <br>
 <img width="387" alt="image" src="https://github.com/user-attachments/assets/f49b41d2-94d0-425c-96bc-e7eeb3e1b37f">
 
+[Nighthawk by PhishFort](https://nighthawk.phishfort.com/) is a valuable tool for enhancing safety while using Google Search. Nighthawk is a free, open source, browser extension that verifies if you are visiting official sites and alerts you when you may be in danger. See below in action.
+![image](https://github.com/user-attachments/assets/8a603a1f-ab70-4598-b013-06be33f5819a)
+
 ### Trustworthy APK sites
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 * [F-Droid](https://f-droid.org/en/) - Specialises in open-source apps and has a strong emphasis on privacy and security. AKA Aurora Store.
@@ -238,37 +242,35 @@ Congrats. You can begin sideloading apps.
 Note: Although the tools and app versions could be out of date, the instructions should still be valid.
 Additionally, you must use `.\adb devices` on Windows for the command `.\adb devices` because the Android tools are not added to the system's environment path. The "." prefix ensures that the command will run from the current directory.
 
-1. Download the Pre-Download files as above.
-2. On Supernote device. Need to enable this option:Supernote Settings->Security & Privacy->Sideloading: On (Tick the button).
-3. Plug USB cable on your desktop **USB port 2** on your desktop PC or laptop.(Note: USB Port 3 did not work for me as it didn't recognise, you can try)Make sure Windows recognise SuperNote device and it will say MTP connected etc. **(Warning: Make sure your PC recognise the device or else you won't be able to proceed next steps and onwards!!)**
-4. **Step P1** Android Platform tools files should be downloaded already.Extract the zip file. The folder will be called "***platform-tools_r35.0.0-windows***"(File revision and name may change in future)
-5. Double click the folder and open folder called "platform-tools".
-6. Right click in the open space within this folder "platform-tools", hold "SHIFT" key and right-click, you should see pop up and select "Open PowerShell window here".
-7. **Windows PowerShell**. A black or blue screen will pop up with lines (Looks like a bunch of lines, like you are in the matrix). (**Tip:**  You can copy the command  `.\adb devices` and right-click in Powershell prompt window and it should paste it in)
+**Step 1:** Download the Pre-Download files as above.
+**Step 2:** On Supernote device. Need to enable this option:Supernote Settings->Security & Privacy->Sideloading: On (Tick the button).
+**Step 3:** Plug USB cable on your desktop **USB port 2** on your desktop PC or laptop.(Note: USB Port 3 did not work for me as it didn't recognise, you can try)Make sure Windows recognise SuperNote device and it will say MTP connected etc. **(Warning: Make sure your PC recognise the device or else you won't be able to proceed next steps and onwards!!)**
+**Step 4:** **Step P1** Android Platform tools files should be downloaded already.Extract the zip file. The folder will be called "***platform-tools_r35.0.0-windows***"(File revision and name may change in future)
+**Step 5:** Double click the folder and open folder called "platform-tools".
+**Step 6:** Right click in the open space within this folder "platform-tools", hold "SHIFT" key and right-click, you should see pop up and select "Open PowerShell window here".
+**Step 7:** **Windows PowerShell**. A black or blue screen will pop up with lines (Looks like a bunch of lines, like you are in the matrix). (**Tip:**  You can copy the command  `.\adb devices` and right-click in Powershell prompt window and it should paste it in)
     Type: " `.\adb devices` "(Type exactly the command above without the inverted commas ". E.g: `.\adb devices`)
-8. If done correctly, you should see Supernote device, something like (will take couple of seconds):
+**Step 8:** If done correctly, you should see Supernote device, something like (will take couple of seconds):
     *daemon not running; starting now at tcp:5037
     daemon started successfully
     List of devices attached
     SNXXXXXXXXX device*
-9. **Step P2** F-Droid .APK file should be downloaded already.Copy "F-Droid.apk" file and paste into the folder "platform-tools" as per Step 4.
-10. Go back to Window Powershell as you done in Step 7.Type: `.\adb install F-Droid.apk` (Can do right-click copy/paste trick)
-11. If all goes well, you should see the following messages below in Powershell:
+**Step 9:** **Step P2** F-Droid .APK file should be downloaded already.Copy "F-Droid.apk" file and paste into the folder "platform-tools" as per Step 4.
+**Step 10:** Go back to Window Powershell as you done in Step 7.Type: `.\adb install F-Droid.apk` (Can do right-click copy/paste trick)
+**Step 11:** If all goes well, you should see the following messages below in Powershell:
      *Performing Streamed Install
      Success*
-12. You may close **PowerShell** from here. Type exit or hit the X button (top right corner) to close.
-13. To open F-Droid app. Go to your Supernote device.Swipe gesture down from the top or the side to access Settings (The Gear icon)Supernote Settings->Apps->Supernote App Store->F-Droid(Same thing to access any app/apk you install).Once loaded, hit update and be patient!! It will take a while like a good minute or something. I thought it was frozen but feels like forever.Give it a minute or so. Go make coffee and come back.(Note: Download a browser from the F-Droid app store and search for .APK, when 1st time downloading it and installing it, it will prompt you to install unknown apps from the browser, swipe right for yes. Follow the prompts, self explanatory)
-14. Enjoy! Have Fun.
-
-
+**Step 12:** You may close **PowerShell** from here. Type exit or hit the X button (top right corner) to close.
+**Step 13:** To open F-Droid app. Go to your Supernote device.Swipe gesture down from the top or the side to access Settings (The Gear icon)Supernote Settings->Apps->Supernote App Store->F-Droid(Same thing to access any app/apk you install).Once loaded, hit update and be patient!! It will take a while like a good minute or something. I thought it was frozen but feels like forever.Give it a minute or so. Go make coffee and come back.(Note: Download a browser from the F-Droid app store and search for .APK, when 1st time downloading it and installing it, it will prompt you to install unknown apps from the browser, swipe right for yes. Follow the prompts, self explanatory)
+**Step 14:** Enjoy! Have Fun.
 
 ## **[How to sideload]**
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
-Step 1: Enable sideloading. <br>
-Step 2: Download the APK from an app store or third-party site.<br>
-Step 3A: If downloaded from an app store, click "Install." OR<br>
-Step 3B: If from a third-party site, download and then install.<br>
-Step 4: Done!<br>
+**Step 1:** Enable sideloading. <br>
+**Step 2:** Download the APK from an app store or third-party site.<br>
+**Step 3A:** If downloaded from an app store, click "Install." OR<br>
+**Step 3B:** If from a third-party site, download and then install.<br>
+**Step 4:** Done!<br>
 **Tip:** Best to install a decent file manager and app store.
 
 ### **Video Tutorial**
@@ -276,6 +278,32 @@ Step 4: Done!<br>
 - [How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04)
 - [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY)
 - [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY)
+
+## How to uninstall / delete sideloaded app
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
+Follow steps below on how to remove the sideloaded app. <br>
+
+Using ***A6X2 Nomad*** device as an example.<br>
+**Step 1:** On your Supernote, go to **Settings** menu<br>
+**Step 2:** On the left side of the menu, go to **Apps**<br>
+**Step 3:** Once loaded, on the right. Select **My Apps**<br>
+**Step 4:** A list of apps will be loaded. To uninstall, select the app you wish to uninstall then select **>** icon <br>
+**Step 5:** Select **Uninstall** button<br>
+**Step 6:** A message prompt will say "Do you want to uninstall this app?" Select **OK** button to confirm<br>
+**Step 7:** The App should be successfully uninstalled<br>
+
+**Uninstall app via ADB terminal** <br>
+**⚠Use caution when utilising the ADB terminal to remove apps. Only continue forward if you comprehend the procedure completely. Uninstalling an incorrect software or changing system preferences may seriously harm your device.  If you are unsure or lack the necessary knowledge, it's best to avoid this method to prevent any unintended consequences.*** <br>
+
+Before proceeding, ensure that sideloading is enabled on the SN device and familiarise yourself with the fundamentals of both ADB and the terminal shell. <br>
+**Step 1:** [Terminal] `adb devices` <br>
+Make sure you can see your SN device connected. <br>
+**Step 2:** [Terminal] `adb shell pm list packages` <br>
+**Step 3:** A list of packages will be displayed. Select the one you want to uninstall. <br>
+**Step 4:** For example, Eink Bro. You will see `package:info.plateaukao.einkbro` <br>
+Type in the terminal without the package text infront as shown below. <br>
+[Terminal] `adb uninstall info.plateaukao.einkbro` <br>
+**Step 5:** The app will be successfully uninstalled. <br>
 
 
 ## ***Troubleshooting:***
@@ -321,6 +349,13 @@ Also, try connecting to the USB ports the back of the PC tower, not the front of
 ---
 
 ## Changelog
+[**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
+**27/08/2024:** <br>
+- Protection - Added browser extensions for phishing. <br>
+- Disclaimer <br>
+- How to delete sideload app <br>
+- Formatting
+
 **26/08/2024:** [Community Peer Reviewer](https://www.reddit.com/user/ImJustHereToBullyYou/)<br>
 Various sections updated:
 - Other formats APK
