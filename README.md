@@ -106,6 +106,9 @@ Supernote templates are editable layouts that facilitate better note organisatio
 - [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) - Massive template collections (Ted L.)
   - **Mirror** https://kitlaan.gitlab.io/supernote-templates/
 - [Remarkable templates](https://rm.ezb.io/) - Can be used for SN as well, same dimensions.
+- [Template Generator](https://recalendar.me/) - Create your personalized calendar PDF. Works for SN too.
+   - Source: https://github.com/klimeryk/recalendar.js 
+- [Planner Template](https://github.com/innocenat/supernote-planner) - Technical skills required to compile.
 - (DEPRECATED) [Notetaking Template Tool (v0.0.4)](https://noteto.needleinthehay.de/) - Works for SN
   - (DEPRECATED) https://github.com/dynobo/noteto - Not active anymore
 
