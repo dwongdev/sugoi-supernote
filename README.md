@@ -26,7 +26,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 ## Table of contents
 
 - [Apps Sideloading](#apps-sideloading)<br>
-- [Discussions/Reviews](#discussionsreviews)<br>
+- [Discussions/Reviews/Links/Tips](#discussionsreviewslinkstips)<br>
 - [Graphics](#graphics)<br>
    - [Icons](#icons)<br>
    - [Screensavers](#screensavers)<br>
@@ -59,8 +59,9 @@ The majority of users will mostly use the sideloading guide, and only few will l
 ## Discussions/Reviews/Links/Tips
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 
+- [[Website]](https://ewritable.com) -  E-ink Tablet Guides, Reviews & News.
+- [[Website]](https://comparisontabl.es/e-readers/) - A comprehensive tool to compare many e-ink tablets.
 - [[YT] Supernote A5X Series by My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS) - Supernote Series A5X
-- [[Link] Compare All e-readers](https://comparisontabl.es/e-readers/) - A comprehensive tool to compare many e-ink tablets.
 - [[Reddit] A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
 - [[Reddit] Sideload APKM files on Supernote Nomad](https://www.reddit.com/r/Supernote/comments/1e4ddgw/sideload_apkm_files_on_supernote_nomad/)
 - [[Reddit] Microsoft Word App SideLoaded on the Nomad](https://www.reddit.com/r/Supernote/comments/1bbkwkd/microsoft_word_app_sideloaded_on_the_nomad/)
@@ -137,9 +138,10 @@ https://supernote.com/pages/authorized-sellers
 ## Content Creators
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 **Youtube:**
-* [@Change-1820](https://www.youtube.com/@Change-1820)
-* [@VladimirKostek](https://www.youtube.com/@VladimirKostek)
-* [@MyDeepGuide](https://www.youtube.com/@MyDeepGuide)
+* [Organizing for Change](https://www.youtube.com/@Change-1820)
+* [Vladimir Kostek](https://www.youtube.com/@VladimirKostek)
+* [My Deep Guide](https://www.youtube.com/@MyDeepGuide)
+* [Rants About Tech](https://www.youtube.com/@rantsabouttechnology)
 
 ## Software
 [**`^ back to top`**](#Sugoi-Supernote) <br>
