@@ -32,6 +32,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
    - [Screensavers](#screensavers)<br>
    - [Templates](#templates)<br>
 - [Hardware](#hardware)<br>
+   - [Case](#case)<br>
    - [Pens](#pens)<br>
    - [Supernote Device](#supernote-device)<br>
 - [Content Creators](#content-creators)<br>
@@ -86,7 +87,7 @@ Download custom icons created by the community. Simply copy and paste them into 
 - [Visual Library](https://github.com/dwongdev/sugoi-supernote/blob/main/icons/Visual%20Library.note) [~17mb] by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/) - Dated 4th Mar 2023.
   - **Mirror:** [Dropbox Link](https://www.dropbox.com/scl/fi/q21383yusdhi4n5fpywyl/Visual-Library.note?rlkey=aw9bmn1va6u3cwc6mc1m4d04n&e=1&dl=0)
   - **Reddit:** [Building an Icon gallery](https://www.reddit.com/r/Supernote/comments/sac6z1/building_an_icon_gallery/)
-- 
+ 
 ### Screensavers
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 The Supernote has a feature called a screensaver that lets users see visuals while the device is inactive. Users can choose images from their folders to personalise the screensaver; PNG, JPG, and JPEG formats are supported. 
@@ -114,6 +115,77 @@ Supernote templates are editable layouts that facilitate better note organisatio
 
 ## Hardware
 [**`^ back to top`**](#Sugoi-Supernote) <br>
+### Case
+Here are some cases for the A6X2 Nomad
+
+**Ratta store** <br>
+[Folios – Ratta Supernote](https://supernote.com/collections/folios)
+
+| Brand               | Size  | Cost (USD) | Comments                |
+| ------------------- | ----- | ---------- | ----------------------- |
+| Vegan Leather Folio | Nomad | $69        | Attract some stains [1] |
+| Canvas Folio        | Nomad | $49        | Scruffs [2]             |
+| Canvas Folio        | A5X   | $55        |                         |
+| Cowhide Folio       | A6X   | $79        |                         |
+| LAMY Folio          | A6X   | $42        |                         |
+
+**Footnotes:** <br>
+[1] [Vegan leather polio seems to attract stain? : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1f0xjog/vegan_leather_polio_seems_to_attract_stain/)<br>
+[2] [A6X2 Folio Scuffs : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1afwpgh/a6x2_folio_scuffs/)<br>
+
+**3rd Party stores**
+(Etsy, Amazon etc)
+
+| Brand                           | Size  | Cost    | Link                                                                                                                                                                                                                                           | Comments |
+| ------------------------------- | ----- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Lacdo iPad mini 6 sleeve        | 7-8"  | $12     |                                                                                                                                                                                                                                                |          |
+| Lacdo tablet sleeve             | 9-11" | $13     |                                                                                                                                                                                                                                                |          |
+| MoKo Tablet                     | 7-8"  | $9.99   | https://www.amazon.com/dp/B07GSL9N4H/?language=en_US                                                                                                                                                                                           |          |
+| CataPurus Top Grain Leather     | 8.3"  | $29.98  | [amazon.com/dp/B0C6MSPCXW](https://www.amazon.com/dp/B0C6MSPCXW)                                                                                                                                                                               |          |
+| Armored Supernote A6 X2 Nomad   | 7.8"  | $34.75   | [Armored Supernote A6 X2 Nomad Case Book Supernote A6 X2 Case Supernote Nomad Folio Case Supernote a X6 A6 X2 Case a X6 A6x Supernote Cover - Etsy Australia](https://www.etsy.com/listing/1760457412/armored-supernote-a6-x2-nomad-case-book) |          |
+| IF Bookaroo Books & Stuff Pouch |       | $20.61   | [https://www.amazon.co.uk/dp/B09WN8QBGC?th=1](https://www.amazon.co.uk/dp/B09WN8QBGC)                                                                                                                                                          |          |
+| HGWALP Universal Case           |       | $11.95  | [amazon.com.au/HGWALP-Protective-Touchscreen-Adjustable-Attachment/dp/B0C6F2FPB2](https://www.amazon.com.au/HGWALP-Protective-Touchscreen-Adjustable-Attachment/dp/B0C6F2FPB2?th=1)                                                            |          |
+| envycase Leather case           | 7.8"  | $138.70 | https://www.etsy.com/listing/1625131514/supernote-a6x2-nomad-case-leather                                                                                                                                                                      |          |
+| LeonStudioDesigns               | 7.8"  | $43.70  | [Personalized Leather Supernote A6 X2 Nomad A5 X Cover Cover With Pen Pouch , Supernote A6 X Case, Supernote A5 X Tablet Case Card Holders - Etsy Australia](https://www.etsy.com/listing/1504925497/personalized-leather-supernote-a6-x2)     |          |
+| AmyLeatherDesign                | 7.8"  | $42.50   | https://www.etsy.com/listing/1453943428/personalized-leather-supernote-a5-x                                                                                                                                                                    |          |
+| Cecety TM                       | 7.8"  | $9.99    | [amazon.com/dp/B09WDCVVPM](https://www.amazon.com/dp/B09WDCVVPM)                                                                                                                                                                               |          |
+| Jackleathercraft                | 7.8"  | $44.60   | https://www.etsy.com/listing/1520938966/personalized-leather-supernote-a5-x-a6                                                                                                                                                               
+
+**Note:** Beware! Do your own research as there are many fake Etsy store ratings. Few months ago (forgot which store, it had high ratings), I checked the feedback comments where 1 user mentioned, the product is a defect and have many fake reviews (most likely bought reviews). 
+
+**❌Not so good case >=(**
+
+| Brand                    | Size | Comments                               | Cost   | Link                                                                                                                                                                                                                                     |
+| ------------------------ | ---- | -------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ExtraStudio Leather case | 7.8" | Overtime, Leather dye stain the screen | $44.92 | [Personalized Leather Case for Supernote A5x / A6X / A6 X2 Nomad, Supernote A5x Folio, Fits LAMY Al-star EMR Pen, Standard Pen K03 - Etsy Australia](https://www.etsy.com/au/listing/1463268887/personalized-leather-case-for-supernote) |
+
+
+**_DIY:_**
+- [Yet another new case : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1dpdhyv/yet_another_new_case/) <br>
+- [Lochby Nomad Case : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1dsk1qj/lochby_nomad_case/) <br>
+- [DIY folio case for nomad a6x2 : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1ddg770/diy_folio_case_for_nomad_a6x2/) <br>
+- [Specialized DIY work case : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1df8vnc/specialized_diy_work_case/) <br>
+- [outfitted a custom case for my nomad : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1d96l7n/outfitted_a_custom_case_for_my_nomad/) <br>
+- [DIY canvas folio for Nomad : r/Supernote (reddit.com)](https://www.reddit.com/r/Supernote/comments/192sa5b/diy_canvas_folio_for_nomad/) <br>
+- [diy folio case : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1cnehn8/diy_folio_case/) <br>
+- [DYI Case with light (v1) : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1box5ni/dyi_case_with_light_v1/) <br>
+- [Making custom cases and folios : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1cfzqrw/making_custom_cases_and_folios/) <br>
+- [Retrofit a6x case onto a6x2 : r/Supernote (reddit.com)](https://www.reddit.com/r/Supernote/comments/18sjgpp/retrofit_a6x_case_onto_a6x2/) <br>
+- [DIY folio complete! : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1dds03e/diy_folio_complete/) <br>
+- [DIY Leather Folio A6X2 : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/192xuhj/diy_leather_folio_a6x2/) <br>
+- [How I transport my Nomad... : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1f5gfgw/how_i_transport_my_nomad/) <br>
+- [custom folio : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1cu6x8w/custom_folio/) <br>
+
+**_3D Printing:_**
+- [I designed a 3D printable case for the Supernote Nomad (A6X2) : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1bosxw1/i_designed_a_3d_printable_case_for_the_supernote/)
+- [Just printed slipcase for Nomad : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1f7adom/just_printed_slipcase_for_nomad/)
+
+**References:**
+- [Case suggestion/review : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1f6ifs9/case_suggestionreview/)
+- [NOMAD CASE/ COVER OPTIONS 📓 : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1c4hax1/nomad_case_cover_options/)
+- [Hard shell case/sleeve for Nomad? : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1dylnva/hard_shell_casesleeve_for_nomad/)
+- [Canvas vs Navy Blue Folio : r/Supernote (reddit.com)](https://new.reddit.com/r/Supernote/comments/1cgicvi/canvas_vs_navy_blue_folio/)
+
 ### Pens
 - [How to safely DIY a Supernote Pen](https://www.reddit.com/r/Supernote/comments/lzl3a1/how_to_safely_diy_a_supernote_pen/)
 - [[SN] How to Safely Make a DIY Supernote Pen](https://support.supernote.com/hardware-repair/how-to-safely-make-a-diy-supernote-pen?from_search=156541912) - Official guide on from SN.
