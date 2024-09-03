@@ -123,8 +123,8 @@ Here are some cases for the A6X2 Nomad
 
 | Brand               | Size  | Cost (USD) | Comments                |
 | ------------------- | ----- | ---------- | ----------------------- |
-| Vegan Leather Folio | Nomad | $69        | Attract some stains [1] |
-| Canvas Folio        | Nomad | $49        | Scruffs [2]             |
+| Vegan Leather Folio | Nomad | $69        | Attract some stains and scruffs [1][2] |
+| Canvas Folio        | Nomad | $49        |          |
 | Canvas Folio        | A5X   | $55        |                         |
 | Cowhide Folio       | A6X   | $79        |                         |
 | LAMY Folio          | A6X   | $42        |                         |
