@@ -11,12 +11,17 @@ This fully detailed step by step guide include:
 
 ### **Tested:**
 
-* Supernote A6 X2 Nomad.
-   * Ver: 3.18.29 (on 15/08/2024) - Successful
-   * Ver: 3.17.29 (on 10/08/2024) - Successful
-   * Ver: 3.16.27 (on 26/03/2024) - Successful
+| Supernote A6 X2 Nomad | Root Execution Date | Root Status |
+| --------------------- | ------------------- | ----------- |
+| Chauvet 3.20.29       | 15/11/2024          | Successful  |
+| Chauvet 3.19.29       | Did not attempt     | -           |
+| Chauvet 3.18.29       | 15/08/2024          | Successful  |
+| Chauvet 3.17.29       | 10/08/2024          | Successful  |
+| Chauvet 3.16.27       | 26/03/2024          | Successful  |
 * Windows OS (Windows 10 and 11).
-* Working as of 15 Aug 2024.
+* Last working as of 15 Nov 2024.
+
+[Changelog for Nomad - Supernote](https://support.supernote.com/en_US/change-log/changelog-for-a6-x2-nomad)
 
 ### **Not Tested:**
 
