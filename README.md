@@ -203,7 +203,7 @@ Here are some cases for the A6X2 Nomad
 |:---------:|:------:| :----------: |
 | A5 SLIM | 2025* | TBC* |
 | A4 X2 | 2024-Q4* | TBC* |
-| A5X2	| 2024* | TBC* |
+| A5X2	| 2024 | Available/Pre-order |
 | A6X2 (Nomad)	| 2023 | Available |
 | A5X	| 2020 | Discountinued |
 | A6X	| 2021 | Discountinued |
