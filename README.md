@@ -11,6 +11,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 **Official Website:** https://supernote.com <br>
 **About the company:** https://supernote.com/pages/about-us<br>
 **Reddit:** [/r/Supernote](https://www.reddit.com/r/Supernote)<br>
+**Reddit:** [r/SuperNoteUnofficial](https://www.reddit.com/r/SuperNoteUnofficial/) - For unbias discussions<br>
 **X (Twitter):** https://x.com/rattasupernote<br>
 **Facebook:** https://www.facebook.com/rattasupernote<br>
 **Instagram:** https://www.instagram.com/supernote_official<br>
@@ -25,18 +26,21 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 ----
 ## Table of contents
 
-- [Apps Sideloading](#apps-sideloading)<br>
-- [Guides](#guides)<br>
+- [Announcements](#announcements)<br>
 - [Discussions/Reviews/Links/Tips](#discussionsreviewslinkstips)<br>
 - [Graphics](#graphics)<br>
    - [Icons](#icons)<br>
    - [Screensavers](#screensavers)<br>
    - [Templates](#templates)<br>
+- [Guides](#guides)<br>
+   - [How to root](#how-to-root)<br>
+   - [Sideloading](#sideloading)<br>
 - [Hardware](#hardware)<br>
    - [Case](#case)<br>
    - [Pens](#pens)<br>
    - [Supernote Device](#supernote-device)<br>
-- [Content Creators](#content-creators)<br>
+   - [Hardware Comparison](#hardware-comparison)<br>
+- [Media Content Creators](#media-content-creators)<br>
 - [Software](#software)<br>
    - [Automations](#automations)<br>
    - [Chauvet](#chauvet)<br>
@@ -52,15 +56,8 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 - [License](#license)<br>
 <br>
 
-## Apps Sideloading
-[**`^ back to top`**](#Sugoi-Supernote) <br>
-The majority of users will mostly use the sideloading guide, and only few will likely look into [root](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) options.
-
-[How to sideload](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
-
-## Guides
-[**`^ back to top`**](#Sugoi-Supernote) <br>
-[How to root (Medium to Advanced IT Skill level required)](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) - Giving your SN device God mode powers.
+## Announcements
+Welcome to the **unofficial** resource hub for the Ratta Supernote device! Here, you'll find a wealth of information, including guides, tutorials, hardware and software tips, and community-contributed content. Whether you're looking to customise your device, explore new features, or connect with other users, I will try to keep this up-to-date for everyone. Dive in and enhance your Supernote experience! Stay Sugoiiiiii! 😁 <br>
 
 ## Discussions/Reviews/Links/Tips
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -81,6 +78,7 @@ The majority of users will mostly use the sideloading guide, and only few will l
 - [[Reddit] A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
 - [[Reddit] Support for (m)HTML](https://www.reddit.com/r/Supernote/comments/1bku7wh/support_for_mhtml/)
 - [[Reddit] Obsidian working on A6 X2 Guide](https://www.reddit.com/r/Supernote/comments/1bnmd5o/obsidian_working_on_a6_x2_guide/)
+
 
 ## Graphics
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -117,6 +115,16 @@ Supernote templates are editable layouts that facilitate better note organisatio
 - [Planner Template](https://github.com/innocenat/supernote-planner) - Technical skills required to compile.
 - (DEPRECATED) [Notetaking Template Tool (v0.0.4)](https://noteto.needleinthehay.de/) - Works for SN
   - (DEPRECATED) https://github.com/dynobo/noteto - Not active anymore
+
+## Guides
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+### How to root
+[How to root (Medium to Advanced IT Skill level required)](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) - Giving your SN device God mode powers.
+
+### Sideloading
+The majority of users will mostly use the sideloading guide, and only few will likely look into [root](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) options.
+
+[How to sideload](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
 
 ## Hardware
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -215,13 +223,27 @@ Here are some cases for the A6X2 Nomad
 Make sure to verify authorised sellers on the official Supernote website. Products not listed there are likely counterfeit.<br>
 https://supernote.com/pages/authorized-sellers
 
-## Content Creators
+Timeline of Ratta's creations
+![image](https://github.com/user-attachments/assets/a1240be0-1fa1-4270-a033-3191b3aca56a)
+
+### Hardware Comparison
+Community Links on Device Comparisons
+- [A5x 226 DPI vs A5x2 300 DPI](https://www.reddit.com/r/Supernote/comments/1hddcoz/a5x_226_dpi_vs_a5x2_300_dpi/)
+
+## Media Content Creators
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 **Youtube:**
-* [Organizing for Change](https://www.youtube.com/@Change-1820)
-* [Vladimir Kostek](https://www.youtube.com/@VladimirKostek)
+* [Brandon Boswell](https://www.youtube.com/@BrandonKBoswell)
+* [Entry Line](https://www.youtube.com/@entry_line)
+* [Kit Betts-Masters](https://www.youtube.com/@KitBetts-Masters)
 * [My Deep Guide](https://www.youtube.com/@MyDeepGuide)
+* [Organizing for Change](https://www.youtube.com/@Change-1820)
+* [paper thinker](https://www.youtube.com/@paperthinker)
+* [pixel leaves](https://www.youtube.com/@pixelleaves)
 * [Rants About Tech](https://www.youtube.com/@rantsabouttechnology)
+* [Vladimir Kostek](https://www.youtube.com/@VladimirKostek)
+
+**Note:** Please note that I am not affiliated with any of the content creators mentioned. I find their content useful and informative. This list may be updated or removed at any time.
 
 ## Software
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -279,7 +301,7 @@ In order to complete and test the tools below, you should have a fundamental und
 
 ----
 ## To do
-- Relocate Sideloading apps on it's own folder once it gets big.
+- Nil.
 
 ----
 
