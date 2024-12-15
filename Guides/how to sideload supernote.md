@@ -242,28 +242,28 @@ Congrats. You can begin sideloading apps.
 Note: Although the tools and app versions could be out of date, the instructions should still be valid.
 Additionally, you must use `.\adb devices` on Windows for the command `.\adb devices` because the Android tools are not added to the system's environment path. The "." prefix ensures that the command will run from the current directory.
 
-**Step 1:** Download the Pre-Download files as above.
-**Step 2:** On Supernote device. Need to enable this option:Supernote Settings->Security & Privacy->Sideloading: On (Tick the button).
-**Step 3:** Plug USB cable on your desktop **USB port 2** on your desktop PC or laptop.(Note: USB Port 3 did not work for me as it didn't recognise, you can try)Make sure Windows recognise SuperNote device and it will say MTP connected etc. **(Warning: Make sure your PC recognise the device or else you won't be able to proceed next steps and onwards!!)**
-**Step 4:** **Step P1** Android Platform tools files should be downloaded already.Extract the zip file. The folder will be called "***platform-tools_r35.0.0-windows***"(File revision and name may change in future)
-**Step 5:** Double click the folder and open folder called "platform-tools".
-**Step 6:** Right click in the open space within this folder "platform-tools", hold "SHIFT" key and right-click, you should see pop up and select "Open PowerShell window here".
-**Step 7:** **Windows PowerShell**. A black or blue screen will pop up with lines (Looks like a bunch of lines, like you are in the matrix). (**Tip:**  You can copy the command  `.\adb devices` and right-click in Powershell prompt window and it should paste it in)
-    Type: " `.\adb devices` "(Type exactly the command above without the inverted commas ". E.g: `.\adb devices`)
-**Step 8:** If done correctly, you should see Supernote device, something like (will take couple of seconds):
-    *daemon not running; starting now at tcp:5037
-    daemon started successfully
-    List of devices attached
-    SNXXXXXXXXX device*
-**Step 9:** **Step P2** F-Droid .APK file should be downloaded already.Copy "F-Droid.apk" file and paste into the folder "platform-tools" as per Step 4.
-**Step 10:** Go back to Window Powershell as you done in Step 7.Type: `.\adb install F-Droid.apk` (Can do right-click copy/paste trick)
-**Step 11:** If all goes well, you should see the following messages below in Powershell:
-     *Performing Streamed Install
-     Success*
-**Step 12:** You may close **PowerShell** from here. Type exit or hit the X button (top right corner) to close.
-**Step 13:** To open F-Droid app. Go to your Supernote device.Swipe gesture down from the top or the side to access Settings (The Gear icon)Supernote Settings->Apps->Supernote App Store->F-Droid(Same thing to access any app/apk you install).Once loaded, hit update and be patient!! It will take a while like a good minute or something. I thought it was frozen but feels like forever.Give it a minute or so. Go make coffee and come back.(Note: Download a browser from the F-Droid app store and search for .APK, when 1st time downloading it and installing it, it will prompt you to install unknown apps from the browser, swipe right for yes. Follow the prompts, self explanatory)
-**Step 14:** Enjoy! Have Fun.
-
+**Step 1:** Download the Pre-Download files as above. <br>
+**Step 2:** On Supernote device. Need to enable this option:Supernote Settings->Security & Privacy->Sideloading: On (Tick the button). <br>
+**Step 3:** Plug USB cable on your desktop **USB port 2** on your desktop PC or laptop.(Note: USB Port 3 did not work for me as it didn't recognise, you can try)Make sure Windows recognise SuperNote device and it will say MTP connected etc. **(Warning: Make sure your PC recognise the device or else you won't be able to proceed next steps and onwards!!)** <br>
+**Step 4:** **Step P1** Android Platform tools files should be downloaded already.Extract the zip file. The folder will be called "***platform-tools_r35.0.0-windows***"(File revision and name may change in future) <br>
+**Step 5:** Double click the folder and open folder called "platform-tools". <br>
+**Step 6:** Right click in the open space within this folder "platform-tools", hold "SHIFT" key and right-click, you should see pop up and select "Open PowerShell window here". <br>
+**Step 7:** **Windows PowerShell**. A black or blue screen will pop up with lines (Looks like a bunch of lines, like you are in the matrix). (**Tip:**  You can copy the command  `.\adb devices` and right-click in Powershell prompt window and it should paste it in) <br>
+    Type: " `.\adb devices` "(Type exactly the command above without the inverted commas ". E.g: `.\adb devices`) <br>
+**Step 8:** If done correctly, you should see Supernote device, something like (will take couple of seconds): <br>
+    *daemon not running; starting now at tcp:5037 <br>
+    daemon started successfully <br>
+    List of devices attached <br>
+    SNXXXXXXXXX device* <br>
+**Step 9:** **Step P2** F-Droid .APK file should be downloaded already.Copy "F-Droid.apk" file and paste into the folder "platform-tools" as per Step 4. <br>
+**Step 10:** Go back to Window Powershell as you done in Step 7.Type: `.\adb install F-Droid.apk` (Can do right-click copy/paste trick) <br>
+**Step 11:** If all goes well, you should see the following messages below in Powershell: <br>
+     *Performing Streamed Install <br>
+     Success* <br>
+**Step 12:** You may close **PowerShell** from here. Type exit or hit the X button (top right corner) to close. <br>
+**Step 13:** To open F-Droid app. Go to your Supernote device.Swipe gesture down from the top or the side to access Settings (The Gear icon)Supernote Settings->Apps->Supernote App Store->F-Droid(Same thing to access any app/apk you install).Once loaded, hit update and be patient!! It will take a while like a good minute or something. I thought it was frozen but feels like forever.Give it a minute or so. Go make coffee and come back.(Note: Download a browser from the F-Droid app store and search for .APK, when 1st time downloading it and installing it, it will prompt you to install unknown apps from the browser, swipe right for yes. Follow the prompts, self explanatory) <br>
+**Step 14:** Enjoy! Have Fun. <br>
+ <br>
 ## **[How to sideload]**
 [**`^ back to top`**](#how-to-sideload-on-sn-devices) <br>
 **Step 1:** Enable sideloading. <br>
