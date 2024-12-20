@@ -35,6 +35,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 - [Guides](#guides)<br>
    - [How to root](#how-to-root)<br>
    - [Sideloading](#sideloading)<br>
+   - [How to sync across multiple devices - Selfhost cloud](#how-to-sync-across-multiple-devices)<br>
 - [Hardware](#hardware)<br>
    - [Case](#case)<br>
    - [Pens](#pens)<br>
