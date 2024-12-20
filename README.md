@@ -128,7 +128,7 @@ The majority of users will mostly use the sideloading guide, and only few will l
 
 ### How to sync across multiple devices
 Many users are wary of entrusting their data to both small and large corporations, especially given the numerous data breaches that have occurred in recent years. <br>
-[How to sync between multiple devices via Synology NAS - Bidirectional Sync]()
+[How to sync between multiple devices via Synology NAS - Bidirectional Sync](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how_to_selfhost_sync.md)
 
 ## Hardware
 [**`^ back to top`**](#Sugoi-Supernote) <br>
