@@ -122,9 +122,12 @@ Supernote templates are editable layouts that facilitate better note organisatio
 [How to root (Medium to Advanced IT Skill level required)](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) - Giving your SN device God mode powers.
 
 ### Sideloading
-The majority of users will mostly use the sideloading guide, and only few will likely look into [root](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) options.
-
+The majority of users will mostly use the sideloading guide, and only few will likely look into [root](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) options. <br>
 [How to sideload](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
+
+### How to sync across multiple devices
+Many users are wary of entrusting their data to both small and large corporations, especially given the numerous data breaches that have occurred in recent years. <br>
+[How to sync between multiple devices via Synology NAS - Bidirectional Sync]()
 
 ## Hardware
 [**`^ back to top`**](#Sugoi-Supernote) <br>
