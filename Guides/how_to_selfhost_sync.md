@@ -20,6 +20,7 @@
     - [SN Device](#sn-device-config)
     - [Synology NAS Docker - Syncthing](#synology-nas-docker---syncthing)
     - [SN Syncthing](#sn-syncthing)
+    - [Syncing in action](#syncing-in-action)
   - [Optional - NetGuard](#optional---netguard)
   - [Tips](#tips)
   - [Troubleshooting](#troubleshooting)
@@ -265,7 +266,7 @@ These are my **Syncthing** settings (Don't have to follow me, just preference. F
 
 Other sections left untouched.<br>
 
-**IN ACTION CLIPS** <br>
+### Syncing in action<br>
 [**`^ back to top`**](#table-of-contents) <br>
 ***Copy and Moving from SN*** <br>
 ![Copy and moving from SN](https://github.com/user-attachments/assets/09c69614-c988-4f25-afb6-3068ee337f87)
