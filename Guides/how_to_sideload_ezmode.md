@@ -113,6 +113,15 @@ To exit the application simply close the terminal window and the scrcpy program 
 **Step 7:** <br>
 Congrats. APK installed.
 
+**Final results - Screenshot as below** <br>
+1) Open terminal and load scrcpy.
+2) Drag APK into SN.
+3) Wait for APK installation.
+
+![image](https://github.com/user-attachments/assets/d4a5d069-f706-4cbf-8705-4caa2bd7dbc0)
+
+
+
 ---
 
 #### Linux
