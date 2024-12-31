@@ -201,7 +201,7 @@ Ratta has made the procedure easier by immediately adding sideloading options to
 
 **Process (Easy as 1-2-3):** <br>
 *Step 1:*
-[SN] To activate and access it on your SN device. Go to Settings -> Security & Privacy -> Sideloading -> On
+[SN] To activate and access it on your SN device. Go to Settings -> Security & Privacy -> Sideloading -> On.
 
 *Step 2:*
 [SN] A disclaimer message will pop up on the screen. Read the terms and conditions carefully. 
@@ -209,6 +209,11 @@ If you agree to it then select Accept and Enable. Otherwise, hit the back button
 
 *Step 3:*
 Congrats. You can begin sideloading apps.
+
+## Drag and drop <br>
+
+Another easy way to install APK by using drag and drop via scrcpy program. <br>
+🎈Refer to this guide [How to Sideload by using drag n drop method safely](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how_to_sideload_ezmode.md)
 
 ---
 
