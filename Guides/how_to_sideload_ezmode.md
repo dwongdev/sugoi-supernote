@@ -23,7 +23,8 @@ Other benefits of using scrcpy include the ability to copy and paste clipboard c
 For general knowledge and safety measures, please refer to [this guide](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md). <br>
 
 **Tested:**
-* Supernote A6X2 Nomad. Chauvet3.20.29
+* Supernote A6X2 Nomad. Chauvet 3.20.29.
+* Supernote A5X2 Manta. Chauvet 3.20.29.
 * Windows 10
 * Working as of 31.12.24
 
