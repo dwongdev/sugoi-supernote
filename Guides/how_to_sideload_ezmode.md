@@ -22,11 +22,17 @@ Other benefits of using scrcpy include the ability to copy and paste clipboard c
 
 For general knowledge and safety measures, please refer to [this guide](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md). <br>
 
-**Tested:**
-* Supernote A6X2 Nomad. Chauvet 3.20.29.
-* Supernote A5X2 Manta. Chauvet 3.20.29.
+**Tested:** Working as of 31.12.24
+| SN Device   | OS                   | Status     |
+| ----------- | -------------------- | ---------- |
+| A6 X2 Nomad | Chauvet 3.20.29      | Working    |
+| A5 X2 Manta | Chauvet 3.20.29      | Working    |
+| A6X         | Chauvet 2.18.30_beta | Working*   |
+
+*Note 1: Check Step 4 to get it working. <br>
+
 * Windows 10
-* Working as of 31.12.24
+* Keyboard & mouse
 
 **Not Tested:**
 * MacOS/Linux/ChromeOS
@@ -96,6 +102,9 @@ Double-click the `open_a_terminal_here.bat` file to load the terminal. Then type
 ![image](https://github.com/user-attachments/assets/e869b979-d380-46ec-82e2-58d16a137c56) <br>
 
 ![1-Terminal and Command](https://github.com/user-attachments/assets/fed2d789-873f-4c3e-9a7c-607912720559) <br>
+
+🛑For **A6X**: There is a green screen issue caused by the device encoder. <br>
+Type the following command in the terminal to load the software: `scrcpy --video-encoder=OMX.google.h264.encoder`. <br>
 
 ***Note:*** 
 It will spit out some errors so don't worry about it. Just ignore it.<br>
