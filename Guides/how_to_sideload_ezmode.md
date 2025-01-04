@@ -79,7 +79,9 @@ Download either the Win64 or Win32 version of scrcpy depending on your Windows s
 ### Steps to sideload
 #### Windows
 [**`^ back to top`**](#table-of-contents) <br>
-
+**Step 0:** <br>
+Insert USB cable from Windows desktop USB port and SN device prior to starting <br>
+**Note:** To check if connected, load up terminal and use `adb devices` to see if connected. <br>
 **Step 1:** <br>
 Download the Pre-Download file as above. <br>
 **Step 2:** <br>
