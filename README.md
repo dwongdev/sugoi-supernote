@@ -331,7 +331,7 @@ A list of talented developers that's doing an awesome job! In order to complete 
 - [Python] [Supernote to Obsidian markdown converter](https://github.com/dsummersl/sn2md): Supernote to Markdown converter (sn2md).
 - [Typescript] [Supernote file-format support](https://github.com/philips/supernote-typescript): Supernote Typescript library.
 - [Typescript] [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): Convert notes dropped into an Obsidian vault to PNG to use in markdown.  
-- [Dart/C++] [Android Sideloader for Windows and Mac](https://github.com/ryan-andrew/android_sideloader): Super-simple, portable, non-technical sideloading for everyone. ⚠ [Hmm..](https://www.reddit.com/r/Supernote/comments/1ht83jr/comment/m5bouxh/) <br>
+- [Dart/C++] [Android Sideloader for Windows and Mac](https://github.com/ryan-andrew/android_sideloader): Super-simple, portable, non-technical sideloading for everyone. ⚠ [False psotive virus scan](https://www.reddit.com/r/Supernote/comments/1ht83jr/comment/m5dqlri/) <br>
 
 #### Reddit
 - [Python] [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
