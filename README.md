@@ -50,9 +50,9 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
    - [Mobile App](#mobile-app)<br>
    - [Supernote Cloud](#supernote-cloud)<br>
    - [Supernote Partner App for Desktop](#supernote-partner-app-for-desktop)<br>
-   - [Tools](#tools)<br>
+- [Software Development Tools](#software-development-tools)<br>
 - [Tutorials](#tutorials)<br>
-- [To Do](#to-do)<br>
+- [Changelog](#changelog)<br>
 - [References](#references)<br>
 - [License](#license)<br>
 <br>
@@ -63,23 +63,29 @@ Welcome to the **unofficial** resource hub for the Ratta Supernote device! Here,
 ## Discussions/Reviews/Links/Tips
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 
-- [[Website]](https://ewritable.com) -  E-ink Tablet Guides, Reviews & News.
-- [[Website]](https://comparisontabl.es/e-readers/) - A comprehensive tool to compare many e-ink tablets.
-- [[YT] Supernote A5X Series by My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS) - Supernote Series A5X
-- [[Reddit] A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
-- [[Reddit] Sideload APKM files on Supernote Nomad](https://www.reddit.com/r/Supernote/comments/1e4ddgw/sideload_apkm_files_on_supernote_nomad/)
-- [[Reddit] Microsoft Word App SideLoaded on the Nomad](https://www.reddit.com/r/Supernote/comments/1bbkwkd/microsoft_word_app_sideloaded_on_the_nomad/)
-- [[Reddit] For those who sideload apps: try this if your pen stops writing](https://www.reddit.com/r/Supernote/comments/17jozp8/for_those_who_sideload_apps_try_this_if_your_pen/)
-- [[Reddit] Anything I can do about black screens on sideloaded apps?](https://www.reddit.com/r/Supernote/comments/1btwaw8/anything_i_can_do_about_black_screens_on/)
-- [[Reddit] How to install apps on Supernote](https://www.reddit.com/r/Supernote/comments/wql9gm/how_to_install_apps_on_supernote/)
-- [[Reddit] Syncthing working on A5X](https://www.reddit.com/r/Supernote/comments/1awuadk/syncthingfork_works_sideloaded_to_the_supernote/)
-- [[Reddit] Possibly useful for others - syncing your files using syncthing via your phone (or sideloaded on your SN device)](https://www.reddit.com/r/Supernote/comments/1auyk6w/possibly_useful_for_others_syncing_your_files/)
-- [[Reddit] I cannot get my SN into the company WiFi, so I figured out a workaround](https://www.reddit.com/r/Supernote/comments/1cz6i2d/i_cannot_get_my_sn_into_the_company_wifi_so_i/)
-- [[Reddit] How to get the most from Supernote (with a bit of work)](https://www.reddit.com/r/Supernote/comments/yu1lda/how_to_get_the_most_from_supernote_with_a_bit_of/)
-- [[Reddit] A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
-- [[Reddit] Support for (m)HTML](https://www.reddit.com/r/Supernote/comments/1bku7wh/support_for_mhtml/)
-- [[Reddit] Obsidian working on A6 X2 Guide](https://www.reddit.com/r/Supernote/comments/1bnmd5o/obsidian_working_on_a6_x2_guide/)
+### Websites
+- [ewritable](https://ewritable.com) -  E-ink Tablet Guides, Reviews & News.
+- [Compare All e-readers: Kobo, Kindle, reMarkable, BooX, Supernote & etc](https://comparisontabl.es/e-readers/) - A comprehensive tool to compare many e-ink tablets.
+- [Mastering Note Organization: Unleashing the Power of Supernote to Craft Exceptional Articles](https://finntropy.substack.com/p/mastering-note-organization-unleashing)
+  
+### Reddit
+- [A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
+- [Sideload APKM files on Supernote Nomad](https://www.reddit.com/r/Supernote/comments/1e4ddgw/sideload_apkm_files_on_supernote_nomad/)
+- [Microsoft Word App SideLoaded on the Nomad](https://www.reddit.com/r/Supernote/comments/1bbkwkd/microsoft_word_app_sideloaded_on_the_nomad/)
+- [For those who sideload apps: try this if your pen stops writing](https://www.reddit.com/r/Supernote/comments/17jozp8/for_those_who_sideload_apps_try_this_if_your_pen/)
+- [Anything I can do about black screens on sideloaded apps?](https://www.reddit.com/r/Supernote/comments/1btwaw8/anything_i_can_do_about_black_screens_on/)
+- [How to install apps on Supernote](https://www.reddit.com/r/Supernote/comments/wql9gm/how_to_install_apps_on_supernote/)
+- [Syncthing working on A5X](https://www.reddit.com/r/Supernote/comments/1awuadk/syncthingfork_works_sideloaded_to_the_supernote/)
+- [Possibly useful for others - syncing your files using syncthing via your phone (or sideloaded on your SN device)](https://www.reddit.com/r/Supernote/comments/1auyk6w/possibly_useful_for_others_syncing_your_files/)
+- [I cannot get my SN into the company WiFi, so I figured out a workaround](https://www.reddit.com/r/Supernote/comments/1cz6i2d/i_cannot_get_my_sn_into_the_company_wifi_so_i/)
+- [How to get the most from Supernote (with a bit of work)](https://www.reddit.com/r/Supernote/comments/yu1lda/how_to_get_the_most_from_supernote_with_a_bit_of/)
+- [A6X2 Nomad MTP Problems macOS](https://www.reddit.com/r/Supernote/comments/18xlc14/a6x2_nomad_mtp_problems_macos/)
+- [Support for (m)HTML](https://www.reddit.com/r/Supernote/comments/1bku7wh/support_for_mhtml/)
+- [Obsidian working on A6 X2 Guide](https://www.reddit.com/r/Supernote/comments/1bnmd5o/obsidian_working_on_a6_x2_guide/)
+- [WiFi browser login : solution](https://www.reddit.com/r/Supernote/comments/pckf52/wifi_browser_login_solution/)
 
+### Youtube
+   - [Supernote A5X Series by My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS) - Supernote Series A5X
 
 ## Graphics
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -91,6 +97,7 @@ Download custom icons created by the community. Simply copy and paste them into 
 - [Visual Library](https://github.com/dwongdev/sugoi-supernote/blob/main/icons/Visual%20Library.note) [~17mb] by [pa5t0rd](https://www.reddit.com/u/pa5t0rd/) - Dated 4th Mar 2023.
   - **Mirror:** [Dropbox Link](https://www.dropbox.com/scl/fi/q21383yusdhi4n5fpywyl/Visual-Library.note?rlkey=aw9bmn1va6u3cwc6mc1m4d04n&e=1&dl=0)
   - **Reddit:** [Building an Icon gallery](https://www.reddit.com/r/Supernote/comments/sac6z1/building_an_icon_gallery/)
+- [Icon-Editor for simple keyword setup as some kind of tag](https://github.com/Am4rantheus/Supernote-Icon-Editor-for-Keywords/tree/main): Supernote Icon Editor for Keywords
  
 ### Screensavers
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -108,14 +115,24 @@ Supernote templates are editable layouts that facilitate better note organisatio
 - [[SN] How to Create a Custom Note Template Using Images?](https://support.supernote.com/faq/how-to-create-a-custom-note-template)
 - [[SN] Use PDFs as Templates](https://support.supernote.com/Tools-Features/using-pdfs-as-templates)
 - [[SN] Layers and Templates](https://support.supernote.com/Tools-Features/layers-and-templates)
+- [Planner Builder](https://remarkably-organized.pages.dev/) - Works best using Chrome browser.
+   - Source: https://github.com/brianschwabauer/remarkably-organized 
 - [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) - Massive template collections (Ted L.)
   - **Mirror** https://kitlaan.gitlab.io/supernote-templates/
 - [Remarkable templates](https://rm.ezb.io/) - Can be used for SN as well, same dimensions.
-- [Template Generator](https://recalendar.me/) - Create your personalized calendar PDF. Works for SN too.
+- [Template Generator](https://recalendar.me/) - Create your personalised calendar PDF. Works for SN too.
    - Source: https://github.com/klimeryk/recalendar.js 
 - [Planner Template](https://github.com/innocenat/supernote-planner) - Technical skills required to compile.
-- (DEPRECATED) [Notetaking Template Tool (v0.0.4)](https://noteto.needleinthehay.de/) - Works for SN
-  - (DEPRECATED) https://github.com/dynobo/noteto - Not active anymore
+- [Generate a PDF Planner for the Remarkable Platform](https://github.com/revelationnow/PlannerPDF) - This may work on the Supernote.
+- [Supernote A6X2 Nomad Template Mockup + Template Creation Workflow Tips](https://gist.github.com/Fantailed/7bb84ca394db9ff6b13b1c45e1be161a) - A6X2 Nomad Mockup for Affinity/Adobe productivity tools + some template creation workflow tips for beginners.
+- [Native planner project for Supernote A5X](https://github.com/mslake/supernote-native-planner): A native .note planner for Supernote A5X e-ink tablet.
+- (DEPRECATED) [Notetaking Template Tool (v0.0.4)](https://noteto.needleinthehay.de/) - Works for SN.
+  - (DEPRECATED) https://github.com/dynobo/noteto - Not active anymore.
+ 
+### Wallpapers
+[**`^ back to top`**](#Sugoi-Supernote) <br>
+
+- [Supernote A6X2 Screensaver Maker App on GitHub](https://github.com/Schneppi/Supernote-Wallpaper-Maker) - Easily convert JPEG, BMP or PNG images into grayscale images, in the perfect format for your Supernote device.
 
 ## Guides
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -124,11 +141,16 @@ Supernote templates are editable layouts that facilitate better note organisatio
 
 ### Sideloading
 The majority of users will mostly use the sideloading guide, and only few will likely look into [root](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/How%20to%20root%20SN%20A6X2.md) options. <br>
-[How to sideload](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md)
+[How to sideload](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how%20to%20sideload%20supernote.md) <br>
+[How to sideload easy mode](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how_to_sideload_ezmode.md)
 
 ### How to sync across multiple devices
 Many users are wary of entrusting their data to both small and large corporations, especially given the numerous data breaches that have occurred in recent years. <br>
 [How to sync between multiple devices via Synology NAS - Bidirectional Sync](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/how_to_selfhost_sync.md)
+
+### How to install Google apps
+It's possible but the process is quite complicated. Require's the device to be **rooted**.<br>
+[How to install Google Apps](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/installing-google-apps.md)
 
 ## Hardware
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -247,6 +269,9 @@ Community Links on Device Comparisons
 * [Rants About Tech](https://www.youtube.com/@rantsabouttechnology)
 * [Vladimir Kostek](https://www.youtube.com/@VladimirKostek)
 
+**Developers**
+* [[Python] Max Mujynya](https://www.youtube.com/@mujmmb)
+
 **Note:** Please note that I am not affiliated with any of the content creators mentioned. I find their content useful and informative. This list may be updated or removed at any time.
 
 ## Software
@@ -275,37 +300,76 @@ Supernote e-ink tablets run on the Chauvet operating system (OS), which offers c
 ### Supernote Partner App for Desktop
 - https://support.supernote.com/Tools-Features/supernote-partner-app-for-desktop
 
-### Tools
-In order to complete and test the tools below, you should have a fundamental understanding of programming as well as technical abilities.<br>
-- [Hyperlinked PDF Notebook Generator for E Ink Tablets](https://github.com/jacrify/diaryGenerator): generate custom hyperlinked PDF notebooks for use on eink tablets
-- [NoTeTO](https://github.com/dynobo/noteto): Notetaking Template Tool for the reMarkable tablet, but can be use easily for Supernote
-- [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
-- [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
-- [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF
-- [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): convert Supernote's `*.note` files into PDF, PNG or SVG from the command line
-- [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): convert notes dropped into an Obsidian vault to PNG to use in markdown.
+## Software Development Tools
+A list of talented developers that's doing an awesome job! In order to complete and test the tools (3rd party unofficial) below, you should have a fundamental understanding of programming as well as technical abilities.<br>
+#### Github/Gitlab
+- [Official Ratta Supernote Github](https://github.com/Supernote-Ratta)
+- [List of Supernote repo on Github](https://github.com/search?q=supernote&type=repositories)
+- [C#] [Supernote Desktop Client](https://github.com/nelinory/SupernoteDesktopClient): Supernote Desktop Client (SDC) is a desktop client for Supernote paper-like tablet.
+- [C++] [Ratta Supernote Desktop Aplication](https://github.com/qiaodenghui/Supernote): Unofficial cross-platform desktop application.
+- [Go] [Digital planner for Supernote and ReMarkable](https://github.com/kudrykv/latex-yearly-planner): PDF planner designed for e-ink devices.
+- [Golang] [Supernote Cloud Sync](https://github.com/dylanmazurek/supernote-sync): An open-source Golang command-line application to sync your Supernote cloud files to a local directory for backup, version control, and offline access.
+- [Javascript] [Documents in a canvas](https://github.com/cristianvasquez/supernote-tldraw/): Display your pdfs and supernote notes in a canvas, so you can manipulate the pages in new ways
+   - https://cristianvasquez.github.io/supernote-tldraw/
+- [Javascript] [Display a Supernote File on your browser!](https://cristianvasquez.github.io/supernote-web-viewer/): View .note file on the browser!
+   - Source: https://github.com/cristianvasquez/supernote-web-viewer
+- [Javascript] [ScrobbleBox Google Multi-Calendar Copy](https://github.com/scrobblebox/supernote-multiple-google-calendars/tree/main): Sync Multiple Google Calendars into One.
+- [Javascript] [Chinese Character Worksheet Generator](https://github.com/dsystems-io/chinese-worksheet-generator): Chinese Character Worksheet Generator for A5 and A6 (written in NodeJS).
+- [Javascript] [Supernote Crosswords](https://github.com/colingourlay/supernote-crosswords): An automated utility to upload daily crosswords to your Supernote Cloud.
+- [Javascript] [Japanese kana reading and writing learning PDF](https://github.com/Gerqus/gerqus.github.io): View it on https://gerqus.github.io.
+- [PHP] [Supernote A6X Planner](https://github.com/hugoender/supernote-planner): A linked PDF Planner for Supernote A6X system.
+- [Python] [Unofficial Python tool for Supernote](https://github.com/jya-dev/supernote-tool): Convert Supernote's `*.note` files into PDF, PNG or SVG from the command line.
+- [Python] [Supernote local sync app](https://github.com/RohanGautam/supernote-tool): simple terminal app to sync supernote notes to a local directory and convert them to a PDF.
+- [Python] [Hyperlinked PDF Notebook Generator for E Ink Tablets](https://github.com/jacrify/diaryGenerator): generate custom hyperlinked PDF notebooks for use on eink tablets.
+- [Python] [PySN-lib is an open-source Python script library designed to improve and or customize workflows involving Supernote devices.](https://gitlab.com/mmujynya/pysn-digest)
+- [Python] [Page-o-Mat Journal Generator](https://github.com/app-o-mat/page-o-mat): Generates a journal PDF from a specification.
+- [Python] [Convert any image file into a background layer in Atelier](): Simple python tool from importing images into Supernote atelier.
+- [Python] [Supernote-converter](https://github.com/francescoboc/supernote-converter): Convert Supernote's .note files into .pdf files without using the "export" function on a real device.
+- [Python] [Guardian Quick Crossword Downloader](https://github.com/jhob101/guardian-crossword-downloader): Download Guardian Quick Crossword for the current day to Google Drive.
+- [Python] [Kaidoku: Player, solver and creater of sudoku puzzles](https://github.com/sekika/kaidoku): Kaidoku can solve sudoku puzzles as shown in the figure, play with the puzzles and create sudoku puzzles with a command-line interface.
+- [Python] [Learning Chinese with the Supernote](https://github.com/Hamarel/HSK-Hanzi-Worksheet): Creating a Hanzi writing worksheet using the vocabulary from an Anki deck.
+- [Python] [Supernote to Obsidian markdown converter](https://github.com/dsummersl/sn2md): Supernote to Markdown converter (sn2md).
+- [Typescript] [Supernote file-format support](https://github.com/philips/supernote-typescript): Supernote Typescript library.
+- [Typescript] [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): Convert notes dropped into an Obsidian vault to PNG to use in markdown.  
+- [Dart/C++] [Android Sideloader for Windows and Mac](https://github.com/ryan-andrew/android_sideloader): Super-simple, portable, non-technical sideloading for everyone. ⚠ [Hmm..](https://www.reddit.com/r/Supernote/comments/1ht83jr/comment/m5bouxh/) <br>
+
+#### Reddit
+- [Python] [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
+- [Python] [Python script for desktop note files viewer](https://www.reddit.com/r/Supernote/comments/qrxngb/python_script_for_desktop_note_files_viewer/): generate HTML files so you can easily read your notes in your browser
+
+#### Archived
+- (DEPRECATED) [Javascript] [Notetaking Template Tool](https://github.com/dynobo/noteto):  for the reMarkable tablet, but can be use easily for Supernote.
+ 
 
 ## Tutorials
 [**`^ back to top`**](#Sugoi-Supernote) <br>
 - ***[OSes: Windows 10/11 | Linux | MacOS]***
 - **[Articles]**
-   - [Win][Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide) - Converted my guide from Reddit to Github<br>
-   - [Win][(Reddit) How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
-   - [Win][How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
+   - [Win] [Guides/How to root SN A6X2](https://github.com/dwongdev/sugoi-supernote/blob/c1913881565f8dd4a51588e1386fdd8611c87ffb/Guides/How%20to%20root%20SN%20A6X2.md#how-to-root-supernote-a6-x2-nomad-guide) - Converted my guide from Reddit to Github<br>
+   - [Win] [(Reddit) How to Root SuperNote A6 X2 Nomad Guide](https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/) - How to root SuperNote A6X2 Nomad on Windows 10/11 - Detailed steps.
+   - [Win] [How to: Sideloading on A6 X2 [Guide]](https://www.reddit.com/r/Supernote/comments/1bfz4o0/how_to_sideloading_on_a6_x2_guide/) - (DEPRECATED) How to Sideload SuperNote A6X2 Nomad on Windows 10 
    - [Win/Linux] [[Scripting] Sideloading Apps on the Supernote A5X (and probably A6X)](https://github.com/TA1312/supernote-a5x/blob/master/sideload.md) - Automate sideload using scripts.
    - [MacOS] [Reddit][How to sideload on MacOS steps and process ](https://www.reddit.com/r/Supernote/comments/1cjandb/comment/l2fpl5r/)
-   - [Win/Linux/Mac][Reddit][Instructions: How to Update WebView on your Supernote](https://www.reddit.com/r/Supernote/comments/11l8oby/instructions_how_to_update_webview_on_your/)
+   - [Win/Linux/Mac] [Reddit][Instructions: How to Update WebView on your Supernote](https://www.reddit.com/r/Supernote/comments/11l8oby/instructions_how_to_update_webview_on_your/)
+      - Source: https://github.com/abnulls/supernote-webview-instructions 
 
 - **[Video tutorial]**
-   - [Video] [MacOS][How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
-   - [Video] [Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
-   - [Video] [Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
-   - [Video] [Synchronize two Supernote devices together](https://youtu.be/-nrZUQiIqY4)
-   - [Video] [Supernote A5X & A6X beginner guide - 2022](https://www.youtube.com/watch?v=BcvVz8SbrJk): basic tutorial on keywords, Kindle and more.
+   - Windows
+      - [YT] [Supernote 101: Basic settings for A5X2 & A6X2 (Manta and Nomad) - an 8 MIN guide for beginners](https://www.youtube.com/watch?v=tXdTeUQjMCk) - Guide on some basic settings on A5X2 and A6X2.
+      - [YT] [Windows 11][Testing Android Apps on A Supernote Nomad](https://www.youtube.com/watch?v=UU_2ob0ttiY) - Video showing which apps can be sideloaded.
+      - [YT] [Windows 11][Supernote A6X2: How to Side Load Apps](https://www.youtube.com/watch?v=QYLRL3VaeLY) - Video on sideloading Obsidian on SN A6X2.
+
+   - [MacOS]
+      - [YT] [MacOS][How to Sideload Apps on your Super Note A6X2](https://www.youtube.com/watch?v=pKOJCIAzA04) - Video showing steps on how to sideload on SN A6X2.
+
+   - [Supernote Devices]
+      - [YT] [Synchronize two Supernote devices together using dropbox](https://youtu.be/-nrZUQiIqY4)
+      - [YT] [Supernote tips, tricks and favorites in 2024! - for the A6X2 Nomad and A5X / A6X](https://www.youtube.com/watch?v=ZER4P8vWx1c)
+      - [YT] [Supernote A5X & A6X beginner guide - 2022](https://www.youtube.com/watch?v=BcvVz8SbrJk): basic tutorial on keywords, Kindle and more.
 
 ----
-## To do
-- Nil.
+## Changelog
+- 4/1/25: Update a huge list of github projects and other various tips/guides. <br>
 
 ----
 
