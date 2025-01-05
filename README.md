@@ -28,6 +28,7 @@ If there's anything that requires updating (e.g. Dead links etc) or removing, pl
 
 - [Announcements](#announcements)<br>
 - [Discussions/Reviews/Links/Tips](#discussionsreviewslinkstips)<br>
+- [FAQ](#faq)<br>
 - [Graphics](#graphics)<br>
    - [Icons](#icons)<br>
    - [Screensavers](#screensavers)<br>
@@ -86,6 +87,10 @@ Welcome to the **unofficial** resource hub for the Ratta Supernote device! Here,
 
 ### Youtube
    - [Supernote A5X Series by My Deep Guide](https://www.youtube.com/playlist?list=PLsSI9-gaSSmiBVXKfp9R-ItMlWKVWBJZS) - Supernote Series A5X
+
+## FAQ
+A FAQ for Supernote devices provides answers to common questions about its features, usage and troubleshooting to help users get the most out of their device. <br>
+Refer to FAQ link [here](https://github.com/dwongdev/sugoi-supernote/blob/main/FAQ/FAQ.md) (WIP).
 
 ## Graphics
 [**`^ back to top`**](#Sugoi-Supernote) <br>
