@@ -150,7 +150,9 @@ Many users are wary of entrusting their data to both small and large corporation
 
 ### How to install Google apps
 It's possible but the process is quite complicated. Require's the device to be **rooted**.<br>
-[How to install Google Apps](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/installing-google-apps.md)
+[How to install Google Apps](https://github.com/dwongdev/sugoi-supernote/blob/main/Guides/installing-google-apps.md)<br>
+<br>
+[How to Install Google Play on A5X2 Manta](https://www.reddit.com/r/Supernote/comments/1hu1x2b/google_play_on_manta/) - Requires device to be rooted. Reference guide on [XDA](https://xdaforums.com/t/fix-this-device-isnt-play-protect-certified-chome-not-sync-w-google-account-tested-feb-2023.4558811/).
 
 ## Hardware
 [**`^ back to top`**](#Sugoi-Supernote) <br>
@@ -331,7 +333,7 @@ A list of talented developers that's doing an awesome job! In order to complete 
 - [Python] [Supernote to Obsidian markdown converter](https://github.com/dsummersl/sn2md): Supernote to Markdown converter (sn2md).
 - [Typescript] [Supernote file-format support](https://github.com/philips/supernote-typescript): Supernote Typescript library.
 - [Typescript] [Unofficial Obsidian Plugin](https://github.com/philips/obsidian-plugin-supernote?tab=readme-ov-file#supernote-obsidian-plugin): Convert notes dropped into an Obsidian vault to PNG to use in markdown.  
-- [Dart/C++] [Android Sideloader for Windows and Mac](https://github.com/ryan-andrew/android_sideloader): Super-simple, portable, non-technical sideloading for everyone. ⚠ [False psotive virus scan](https://www.reddit.com/r/Supernote/comments/1ht83jr/comment/m5dqlri/) <br>
+- [Dart/C++] [Android Sideloader for Windows and Mac](https://github.com/ryan-andrew/android_sideloader): Super-simple, portable, non-technical sideloading for everyone. ⚠ [False positive virus scan](https://www.reddit.com/r/Supernote/comments/1ht83jr/comment/m5dqlri/) <br>
 
 #### Reddit
 - [Python] [Python script for conversion .note file to text using Google Vision OCR](https://www.reddit.com/r/Supernote/comments/quz3o8/python_script_for_conversion_note_file_to_text/): extract text from note file using Google Vision OCR
