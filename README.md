@@ -3,7 +3,7 @@ A collection of templates, tutorials, guides, and other useful resources for the
 What does ***'sugoi'*** (すごい)  mean? It translates to 'cool/awesome' in Japanese. Since someone already had the awesome-supernote, I decided to create the sugoi-supernote instead =D
 
 **Note:** This is an <b>unofficial</b> Supernote repository and is not affiliated with the official <b>Supernote</b>.<br>
-Please note that all information can be found online through search engines, websites etc, and I reserve the right not to list specific content here.<br>
+Please note that all information can be found online through search engines, websites etc and I reserve the right not to list specific content here.<br>
 <p></p>
 If there's anything that requires updating (e.g. Dead links etc) or removing, please don't hesitate to let me know.
 
@@ -380,6 +380,11 @@ A list of talented developers that's doing an awesome job! In order to complete 
 * https://www.reddit.com/r/Supernote/comments/wql9gm/how_to_install_apps_on_supernote
 * https://www.reddit.com/r/Supernote/comments/198dcey/sideloading_apps_on_a6_x2
 * https://www.thekartinatv.com/2024/06/top-10-tv-apps.html
+
+## Disclaimer
+⚠️ Please remember that the information in these guides is widely available online and is provided for reference only. Use it at your own risk. I'm not liable for any issues that may arise!
+
+I've collected information for these guides from various sources including Reddit, forums, GitHub and websites. I've personally tested some of it and catered to suit my needs while also incorporating input from others.
 
 ----
 
