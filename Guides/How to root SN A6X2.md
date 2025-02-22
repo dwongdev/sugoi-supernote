@@ -1,5 +1,5 @@
 # How to Root SuperNote A6 X2 Nomad Guide
-A short tutorial on how to root SuperNote device on Windows OS PC. Other OS may or may not work or somewhat similar. The guide below should work more or less with the current firmware (3.18.29) on Supernote A6X2 Nomad.<br>
+A short tutorial on how to root SuperNote device on Windows OS PC. Other OS may or may not work or somewhat similar. The guide below should work more or less with the current firmware (as per table) on Supernote A6X2 Nomad.<br>
 This fully detailed step by step guide include:
 
 * [How to root](#how-to-root-sn)
