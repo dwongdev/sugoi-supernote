@@ -1,7 +1,8 @@
 # How to Root SuperNote A6 X2 Nomad Guide
-A short tutorial on how to root SuperNote device on Windows OS PC. Other OS may or may not work or somewhat similar. The guide below should work more or less with the current firmware (as per table) on Supernote A6X2 Nomad.<br>
+A short tutorial on how to root SuperNote device on Windows OS PC. Other OS may or may not work or somewhat similar. The guide below should work more or less with the current firmware (as per table) on Supernote A6X2 Nomad. This should work for the Manta as it uses the same firmware.<br>
 This fully detailed step by step guide include:
 
+* [How to root existing - Cheatsheet](#how-to-root-existing---cheatsheet)
 * [How to root](#how-to-root-sn)
 * [How to unroot](#how-to-unroot---stock-sn)
 * [Troubleshooting](#troubleshooting)
@@ -13,6 +14,7 @@ This fully detailed step by step guide include:
 
 | Supernote A6 X2 Nomad | Root Execution Date | Root Status |
 | --------------------- | ------------------- | ----------- |
+| Chauvet 3.23.32       | 12/04/2025          | Successful  |
 | Chauvet 3.22.31       | 22/02/2025          | Successful  |
 | Chauvet 3.20.29       | 15/11/2024          | Successful  |
 | Chauvet 3.19.29       | Did not attempt     | -           |
@@ -20,9 +22,9 @@ This fully detailed step by step guide include:
 | Chauvet 3.17.29       | 10/08/2024          | Successful  |
 | Chauvet 3.16.27       | 26/03/2024          | Successful  |
 * Windows OS (Windows 10 and 11).
-* Last working as of 22 Feb 2025.
+* Last working as of 12 April 2025.
 
-[Changelog for Nomad - Supernote](https://support.supernote.com/en_US/change-log/changelog-for-a6-x2-nomad)
+[Changelog for Supernote devices](https://support.supernote.com/en_US/change-log)
 
 ### **Not Tested:**
 
@@ -37,7 +39,7 @@ This fully detailed step by step guide include:
 * OS: Windows 10 & Windows 11
 * USB cable
 * SN Version: 
-   * Latest: Chauvet 3.18.29 (As of 15/08/2024)
+   * Latest: Chauvet firmware (Check table as above)
    * Past version: Chauvet 3.16.27, Chauvet 3.17.29 (All worked)
 * Revision 3.17.29 allow users to enable Sideloading option in Settings->Security & Privacy.
 * For Rev 3.16.27 and under.
@@ -61,7 +63,7 @@ Find it manually on website:
 [https://supernote.com](https://supernote.com)  
 Click Menu->Support. Under Other heading, click Changelog then click "How to Update Your Supernote?" OR search in the text box Firmware and click "How to Update Your Supernote?" search results.
 
-**\*** **MagisK** v27.0 or latest  
+**\*** **MagisK** v28.1 or latest  
 [https://github.com/topjohnwu/Magisk/](https://github.com/topjohnwu/Magisk/)
 
 **\* F-Droid (Aurora Store similar to Google Play Store)**  
@@ -100,11 +102,30 @@ Examples:
 `.\adb devices`  
  
 
+## **\[HOW TO ROOT EXISTING - CHEATSHEET\]**
+**Cheatsheet** _Upgrade from existing root. If you haven't **root** the device before, please do not follow this section._ <br>
+1) Download firmware from https://support.supernote.com/en_US/change-log/how-to-update-your-supernote <br>
+Source: https://support.supernote.com/en_US/change-log
+2) Extract boot.img into platform-tools folder
+3) Open terminal in platform-tools folder
+Note: Magisk app should be already installed from previous root / File explorer already installed.
+4) Copy boot.img from Desktop into SN device main storage via terminal
+`adb push ".\boot.img" "/storage/emulated/0"​`
+5) Open MagisK and patch boot.img
+6) Rename patched boot.img for simplicity.
+7) Copy patched boot.img from SN to desktop PC.
+`adb pull "/storage/emulated/0/Download/boot.img" "X:\platform-tools"​`
+8) Boot into bootloader
+`adb reboot bootloader​​`
+9) Boot patched boot.img into SN via terminal
+​`fastboot flash:raw boot "X:\platform-tools\boot.img"​`
+10) `fastboot reboot​`. Check in MagisK to ensure it is rooted. Open app to see whether rooted.
+
 ## **\[HOW TO ROOT SN\]**
 [**`^ back to top`**](#how-to-root-supernote-a6-x2-nomad-guide)
 
 **Step 0:**  
-\[SN\] Ver: 3.18.29.   
+\[SN\] Ver: 3.23.32 (or latest)   
 On SN device. Go to Settings →Security & Privacy →Sideloading: Tick On. 
 
 **Step 1:**  
@@ -134,7 +155,7 @@ Make sure it says device after SNXXXXXX, if it says offline. It means there is s
 **Step 2:**
 
 \[PC\] Download MagisK file from the website above (Ensure it is the correct website, not a dodgy copy).   
-Copy and paste Magisk-v27.0.apk into platform-tools folder.
+Copy and paste Magisk-v28.1.apk (or latest) into platform-tools folder.
 
 ![image](https://github.com/user-attachments/assets/b220c266-3ecb-49b3-a33f-b9c12aeb0f07)
 
@@ -142,9 +163,9 @@ Copy and paste Magisk-v27.0.apk into platform-tools folder.
 **Step 2A:**   
 \[PC\] To install Magisk via Windows Powershell. This will install Magisk app from your PC into SN via USB cable.
 
-In Powershell, type:
+In Powershell, type: Change XX.X to the relevant app version.
 
-`​.\adb install Magisk-v27.0.apk​`
+`​.\adb install Magisk-vXX.X.apk​`
 
 If successfully, you should see:
 
@@ -244,12 +265,12 @@ Move the current boot.img file within the platform-tools into stock folder (Just
 \[PC\] This will copy the patched boot.img from Supernote device into Windows PC folder.
 
 Go back to Windows Powershell and type:  
-`​.\adb pull "/storage/emulated/0/Download/boot.img" "X:\platform-tools_r35.0.0-windows\platform-tools"​`
+`​.\adb pull "/storage/emulated/0/Download/boot.img" "X:\platform-tools"​`
 
 Replace X: to whatever drive that the actual folder is for platform-tools.  
 e.g if the folder is on E drive then it should be:
 
-​`.\adb pull "/storage/emulated/0/Download/boot.img" "E:\platform-tools_r35.0.0-windows\platform-tools"​`
+​`.\adb pull "/storage/emulated/0/Download/boot.img" "E:\platform-tools"​`
 
 You will see it do it's magic, copying files from the Supernote device onto your Windows PC - platform-tools folder.
 
@@ -269,8 +290,8 @@ You should see:
 
 \[PC\] This will boot the patched boot.img file you patched via MagisK in SN device (from Step 8 - 10) from PC (Step 12).
 
-In Powershell. Type (Change the XXXXXXX before proceeding):  
-`​.\fastboot flash:raw boot "X:\XXXXXXXXX\platform-tools_r35.0.0-windows\platform-tools\boot.img"​`
+In Powershell. Type (Change the X before proceeding):  
+`​.\fastboot flash:raw boot "X:\platform-tools\boot.img"​`
 
 If successful, you will see:
 
@@ -397,6 +418,9 @@ How to sideload Supernote A6X2 (3.16.27).
 [What is everyone sideloading? : ](https://www.reddit.com/r/Supernote/comments/1b4y578/what_is_everyone_sideloading/)
 
 **Changelog:**  
+**12/04/25:** <br>
+Change some links and updated firmware table. <br>
+
 **22/08/24:** <br>
 \* Fixed minor formatting<br>
 \* Convert my Guide from Reddit to Github https://www.reddit.com/r/Supernote/comments/1erbjno/how_to_root_supernote_a6_x2_nomad_guide/
