@@ -121,6 +121,7 @@ Supernote templates are editable layouts that facilitate better note organisatio
 - [[SN] How to Create a Custom Note Template Using Images?](https://support.supernote.com/faq/how-to-create-a-custom-note-template)
 - [[SN] Use PDFs as Templates](https://support.supernote.com/Tools-Features/using-pdfs-as-templates)
 - [[SN] Layers and Templates](https://support.supernote.com/Tools-Features/layers-and-templates)
+- [Digital planner by kudrylv](https://github.com/kudrykv/latex-yearly-planner/discussions/57) - Generated planners PDF from 2026 to 2032.
 - [Planner Builder](https://remarkably-organized.pages.dev/) - Works best using Chrome browser.
    - Source: https://github.com/brianschwabauer/remarkably-organized 
 - [Supernote A5X/A6X Templates](https://supernote-templates.mostlyuseful.tech/) - Massive template collections (Ted L.)
