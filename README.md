@@ -290,7 +290,7 @@ Download the SN device manual at https://support.supernote.com/en_US/getting-sta
 ### 0-click Exploit
 ⚠ Some cybersecurity concerns that Ratta has not fixed/patched yet. <br>
 I wouldn't put any sensitive information on this tablet. Quick and easy temporary fix would be, don't connect to their servers, WiFi off until patched or if you are tech savvy then install NetGard firewall app that blocks all connections to Ratta servers etc. <br>
-[CVE-2025-32409](https://nvd.nist.gov/vuln/detail/CVE-2023-30257). A good blog post by PRIZM Labs which details everything [here](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet).
+[CVE-2025-32409](https://nvd.nist.gov/vuln/detail/CVE-2025-32409). A good blog post by PRIZM Labs which details everything [here](https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet).
 
 ### Automations
 - [Automatically uploading the daily NYT crossword to a Supernote](https://nathanbuchar.com/automatically-uploading-the-nyt-crossword-supernote/) ([GitHub Actions version](https://github.com/arichiv/supernote-crossword))
